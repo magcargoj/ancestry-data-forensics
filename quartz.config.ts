@@ -1,5 +1,5 @@
-import { QuartzConfig } from "./util/ctx"
-import * as Plugin from "./plugins"
+import { QuartzConfig } from "./quartz/util/ctx"
+import * as Plugin from "./quartz/plugins"
 
 /**
  * Quartz 4.0 Configuration

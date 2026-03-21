@@ -14,9 +14,10 @@ Complete merged family tree of the Wood and Brooks lineages.
 │   │   └── [[Jessica_Rae_Brooks]]
 │   └── Parents: [[Kevin_Scott_Brooks_Sr]] (b. 1967) & [[Karen_Lynne_Almond]]
 │       ├── [[Henry_Calvin_Brooks]] (b. 1935)
-│       │   ├── [[Joseph_Orren_Brooks]] (1899-1971) & [[Lena_Tuggle]] (1909-2001)
-│       │   │   ├── [[John_Calvin_Brooks]] (1856-1931) & [[Sarah_Jane_Black]] (1868-1943)
-│       │   │   │   ├── [[Calvin_D_Brooks]] (1832-1862) & [[Mary_M_Books]] (b. 1840)
+│   │   │   ├── [[Joseph_Orren_Brooks]] (1899-1971) & [[Lena_Tuggle]] (1909-2001)
+│   │   │   │   ├── [[John_Calvin_Brooks]] (1856-1931) & [[Sarah_Jane_Black]] (1868-1943)
+│   │   │   │   │   ├── [[Calvin_D_Brooks]] (1832-1862) & [[Mary_Brewer]] (b. 1827)
+
 │       │   │   │   │   ├── [[Moses_Brooks]] (1806-1906)
 │       │   │   │   │   │   ├── [[Thomas_Brooks_Sr]] (1773-1851)
 │       │   │   │   │   │   │   └── [[George_Brooks]] (1740-1825) & [[Leah_Hurley]] (b. 1750)
@@ -75,7 +76,7 @@ Complete merged family tree of the Wood and Brooks lineages.
     ├── [[Mike_Waters]] (b. 1946) & [[Sandra_Waters]] (b. 1947)
     │   ├── [[Gerald_Lee_Waters]] & [[Mary_Mae_Lewis]]
     │   │   ├── [[Oscar_Rae_Waters]] (1890-1965) & [[Essie_Rae_Malphurs]] (1894-1972)
-    │   │   │   ├── [[James_Que_Waters]] (1857-1940) & [[Martha_Mattie_Waters]] (1864-1939)
+    │   │   │   ├── [[James_Que_Waters]] (1857-1940) & [[Martha_Louise_Thomas]] (1864-1939)
     │   │   │   │   └── [[John_Milton_Waters]] (1835-1896) & [[Flora_Ann_Strickland]] (1839-1910)
     │   │   │   └── [[William_Daniel_Malphurs]] (1866-1945) & [[Janie_Fowler]] (1867-1945)
     │   └── [[Rose_Mary_Jones]] (1924-2013) & [[Clyde_Jones_Jr]] (1914-2011)

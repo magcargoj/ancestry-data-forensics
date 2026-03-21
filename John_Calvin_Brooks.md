@@ -24,7 +24,7 @@ tags: [genealogy, surname, person]
 | Died | 7 Nov 1931 | Wood Family Tree.ged |
 | Burial | Unknown | Wood Family Tree.ged |
 | Father | [[Calvin_D_Brooks]] | Wood Family Tree.ged |
-| Mother | [[Mary_M_Books]] | Wood Family Tree.ged |
+| Mother | [[Mary_Brewer]] | Death Certificate |
 | Spouse | [[Sarah_Jane_Black]] | Wood Family Tree.ged |
 | Children | [[Joseph_Orren_Brooks]] | Wood Family Tree.ged |
 

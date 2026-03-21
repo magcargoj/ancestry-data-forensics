@@ -24,7 +24,8 @@ tags: [genealogy, Waters, person]
 | Burial | Newmansville Cemetery, Alachua County, FL | Wikitree |
 | Father | [[William_W_Waters]] | 1900 Census |
 | Mother | [[Eliza_Anderson]] | Research |
-| Spouse | [[Essie_Rae_Malphurs]] | Wood Family Tree.ged |
+| Mother | [[Martha_Louise_Thomas]] | User/Marriage Records |
+
 | Spouse | Iva B. Lightsey (m. 1909) | 1910 Census |
 | Children | [[Gerald_Lee_Waters]] | Wood Family Tree.ged |
 

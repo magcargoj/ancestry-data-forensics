@@ -7,6 +7,7 @@ family: "Goodrich"
 confidence: high
 sources:
   - "Wood Family Tree.ged"
+  - "1840, 1850 US Federal Census"
 created: 2026-03-24
 tags: [genealogy, Goodrich, person]
 ---
@@ -18,21 +19,24 @@ tags: [genealogy, Goodrich, person]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Wright Goodrich | Wood Family Tree.ged |
-| Born | 1813 | Wood Family Tree.ged |
-| Birthplace | McDaniels, Sampson, North Carolina, USA | Wood Family Tree.ged |
-| Died | 1870 | Wood Family Tree.ged |
-| Burial | [unknown] | Wood Family Tree.ged |
-| Father | [unknown] | Wood Family Tree.ged |
-| Mother | [unknown] | Wood Family Tree.ged |
-| Spouse | [[Drusila_Peterson]] | Wood Family Tree.ged |
-| Children | [[Lewis_Franklin_Goodrich_Sr]] | Wood Family Tree.ged |
+| Born | 1813 | Sampson County, North Carolina |
+| Died | 1870 | McDaniels, Sampson, North Carolina |
+| Burial | [unknown] | |
+| Father | [[Richard_Goodrich]] (b. 1770 CT) | Tradition |
+| Mother | [[Patricia_Ann_Smith]] | Tradition |
+| Spouse | [[Drusila_Peterson]] (m. c. 1835) | Census |
+| Children | [[Lewis_Franklin_Goodrich_Sr]], and others | Census |
 
 ## Biography
 
-Wright Goodrich was born in 1813 in McDaniels, Sampson County, North Carolina. He married Drusila Peterson and they were the parents of Lewis Franklin Goodrich Sr. Wright passed away in 1870 in McDaniels.
+Wright Goodrich was born in 1813 in Sampson County, North Carolina. He was a farmer and a lifelong resident of the county. In the 1840 Census, he was listed as a head of household aged 20-30. By 1850, he was living in Sampson County with his wife Drusila and children, including his son **Lewis Franklin Goodrich Sr.** 
+
+He is believed to be the son of [[Richard_Goodrich]], who migrated to North Carolina from Connecticut in the late 1700s, bringing the New England Goodrich lineage to the South.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [n/a] |
+| 1840 Federal Census | Census | Sampson County, NC |
+| 1850 Federal Census | Census | Sampson County, NC |
+| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |

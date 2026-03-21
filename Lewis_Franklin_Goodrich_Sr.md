@@ -22,8 +22,8 @@ tags: [genealogy, Goodrich, person]
 | Birthplace | Sampson County, North Carolina | Wood Family Tree.ged |
 | Died | 20 Jan 1922 | Wood Family Tree.ged |
 | Burial | UNKNOWN | Wood Family Tree.ged |
-| Father | UNKNOWN | Wood Family Tree.ged |
-| Mother | UNKNOWN | Wood Family Tree.ged |
+| Father | [[Wright_Goodrich]] | Wood Family Tree.ged |
+| Mother | [[Drusila_Peterson]] | Wood Family Tree.ged |
 | Spouse | [[Margaret_Ann_Maggie_Culbreth]] | Wood Family Tree.ged |
 | Children | [[Thomas_Edwin_Goodrich]] | Wood Family Tree.ged |
 

@@ -8,9 +8,9 @@ confidence: high
 sources:
   - "Wood Family Tree.ged"
   - "User Provided Research"
-  
+  - "North Carolina Troops 1861-1865: A Roster"
 created: 2026-03-20
-tags: [genealogy, surname, person]
+tags: [genealogy, Teal, person, civil-war]
 ---
 
 # John Charles Teal
@@ -21,7 +21,7 @@ tags: [genealogy, surname, person]
 |---|---|---|
 | Full Name | John Charles Teal | User Provided Research |
 | Born | 17 Apr 1838 | User Provided Research |
-| Birthplace | Montgomery County, North Carolina, United States | Wood Family Tree.ged |
+| Birthplace | Montgomery County, NC | Wood Family Tree.ged |
 | Died | 24 Jan 1918 | User Provided Research |
 | Burial | Unknown | Wood Family Tree.ged |
 | Father | [[Joseph_Teal]] | Wood Family Tree.ged |
@@ -31,14 +31,18 @@ tags: [genealogy, surname, person]
 
 ## Biography
 
-John Charles Teal was born in Montgomery County, North Carolina, United States on 17 Apr 1838. He served in the Civil War in Company K, 26th NC Infantry. He passed away on 24 Jan 1918.
+John Charles Teal was born in 1838. He served as a Private in **Company K, 26th North Carolina Infantry**, famously known as the "**Pee Dee Wild Cats**" (raised in Anson County).
+
+He participated in one of the most storied and tragic engagements of the American Civil War: the **Battle of Gettysburg**. On July 1, 1863, the 26th North Carolina suffered the highest numerical losses of any single regiment in the entire war during the assault on McPherson’s Ridge. John C. Teal was **wounded** during this brutal fighting.
+
+Despite the heavy casualties of his unit and early records suggesting he died during the war, John survived and lived until 1918, a testament to his resilience.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
 | Civil War Service Record | Service Record | [Company K, 26th NC Infantry] |
-| [Document description] | [certificate / newspaper / transcription] | [[link_to_note]] |
+| North Carolina Troops 1861-1865: A Roster | Military Record | Volume VII, Company K |
 
 ## Data Discrepancies
 

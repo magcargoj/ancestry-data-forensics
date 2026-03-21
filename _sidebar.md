@@ -1,14 +1,13 @@
-- [[index|Home]]
-- [[Family_Tree|Full Family Tree]]
-- [[Timeline|Timeline of Events]]
-- [[Research_Log|Research Log]]
-- [[Contact|Contact & Contributions]]
+- [Home](README.md)
+- [Full Family Tree](Family_Tree.md)
+- [Timeline of Events](Timeline.md)
+- [Research Log](Research_Log.md)
+- [Contact & Contributions](Contact.md)
 
 ## Family Lines
-- [[Wood]]
-- [[Brooks]]
-- [[Waters]]
-- [[Almond]]
-- [[Medlin]]
-- [[Kruppa]] (Slovakia)
-- [[Szeles]] (Slovakia)
+- [Wood Line](Wood.md)
+- [Brooks Line](Brooks.md)
+- [Waters Line](Waters.md)
+- [Almond Line](Almond.md)
+- [Medlin Line](Medlin.md)
+- [Slovakian Roots](Slovakia.md)

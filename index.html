@@ -4,46 +4,34 @@
   <meta charset="UTF-8">
   <title>Wood Family History</title>
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-  <meta name="description" content="A digital archive of the Wood and Brooks family legacies.">
+  <meta name="description" content="A digital archive of the ancestors, stories, and legacies of the Wood and Brooks families.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
   
-  <!-- Modern Material Theme -->
+  <!-- Modern Simple Theme -->
   <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   
   <style>
     :root {
-      /* Branding Colors */
       --theme-color: #2c3e50;
       --base-font-size: 16px;
-      --content-max-width: 55em;
+      --content-max-width: 60em;
     }
     
-    /* Elegant Typography */
     body {
-      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, Arial, sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
       -webkit-font-smoothing: antialiased;
     }
 
-    /* Mobile Sidebar Fix */
-    @media screen and (max-width: 768px) {
-      .sidebar {
-        padding-top: 20px;
-      }
-    }
-
-    /* Card-like styling for lists */
+    /* Cards for list items */
     .markdown-section table {
       display: table;
       width: 100%;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 4px 6px rgba(0,0,0,0.05);
+      margin-bottom: 20px;
     }
 
-    .cover-main h1 small {
-      font-size: 0.5em;
-      display: block;
-      color: #666;
+    /* Fix sidebar image/logo */
+    .sidebar-nav img {
+      width: 80px;
     }
   </style>
 </head>
@@ -54,34 +42,22 @@
       name: 'Wood Family History',
       repo: 'https://github.com/magcargoj/wood-family-history',
       loadSidebar: true,
-      loadNavbar: false,
       coverpage: true,
-      subMaxLevel: 2,
       auto2top: true,
-      mergeNavbar: true,
-      executeScript: true,
-      search: {
-        maxAge: 86400000,
-        paths: 'auto',
-        placeholder: 'Search for an ancestor...',
-        noData: 'No results found.',
-        depth: 6
-      },
-      // Better Wikilink Support for Docsify
-      markdown: {
-        renderer: {
-          link: function(href, title, text) {
-            if (href.startsWith('[[')) {
-              const clean = href.replace('[[', '').replace(']]', '');
-              const parts = clean.split('|');
-              const target = parts[0].replace(/ /g, '_');
-              const label = parts[1] || parts[0];
-              return `<a href="#/${target}">${label}</a>`;
-            }
-            return this.origin.link.apply(this, arguments);
-          }
+      subMaxLevel: 2,
+      search: 'auto',
+      plugins: [
+        function(hook, vm) {
+          // Hook to convert [[Wikilinks]] before processing markdown
+          hook.beforeEach(function(content) {
+            return content.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(match, target, label) {
+              const path = target.replace(/ /g, '_');
+              const display = label || target;
+              return `[${display}](/#/${path})`;
+            });
+          });
         }
-      }
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>

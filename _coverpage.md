@@ -5,8 +5,8 @@
 *   **Interactive Tree** exploring roots from the 1500s to today.
 *   **Collaborative Archive** for family members to contribute.
 
-[Start Exploring](#index)
-[Full Family Tree](#Family_Tree)
-[Contact Us](#Contact)
+[Start Exploring](README.md)
+[Full Family Tree](Family_Tree.md)
+[Contact Us](Contact.md)
 
 ![logo](https://img.icons8.com/color/96/tree-planting.png)

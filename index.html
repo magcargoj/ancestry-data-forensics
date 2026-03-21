@@ -22,7 +22,19 @@
       auto2top: true,
       homepage: 'README.md',
       search: 'auto',
-      relativeFiles: true
+      relativeFiles: true,
+      plugins: [
+        function(hook, vm) {
+          // Convert [[Wikilinks]] or [[Target|Label]] to [Label](Target.md)
+          hook.beforeEach(function(content) {
+            return content.replace(/\[\[([^\]|]+)(?:\|([^\]]+))?\]\]/g, function(match, target, label) {
+              const display = label || target;
+              const link = target.replace(/ /g, '_') + '.md';
+              return `[${display}](${link})`;
+            });
+          });
+        }
+      ]
     }
   </script>
   <script src="//cdn.jsdelivr.net/npm/docsify@4"></script>

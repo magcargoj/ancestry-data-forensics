@@ -1,35 +1,86 @@
 # Family Tree
 
-Below is an interactive, collapsible visualization of the merged family lineages. 
+Complete merged family tree of the Wood and Brooks lineages.
 
-### 🌳 Interactive Tree
-*Click on any node to expand or collapse the next generation.*
-
-<div id="family-tree" class="tree-container"></div>
-
-<script src="tree.js"></script>
-<script>
-  // Delay slightly to ensure D3 is loaded and container is ready
-  setTimeout(() => {
-    if (typeof renderTree === 'function') {
-      renderTree('#family-tree', 'Website Data/tree_data.json');
-    }
-  }, 500);
-</script>
-
----
-
-## Direct Lineage (Static Reference)
-
-The following text-based tree provides a high-level overview of the major branches.
+## Direct Lineage (Consolidated Chart)
 
 ```
 [[Jeremy_Wood]] (b. 1992)
-├── Spouse: [[Ashley_Jordan_Brooks]] (b. 1993) (Siblings: [[Kevin_Scott_Brooks_Jr]] (b. 1996), [[Jamie_Lynne_Emory]], [[Jessica_Rae_Brooks]])
-│   ├── [[Kevin_Scott_Brooks_Jr]] (b. 1996) & [[Logan_Beasley]]
-│   │   └── [[Natalie_Brooks]] & [[Malcolm_Brooks]]
-│   ├── [[Kevin_Scott_Brooks_Sr]] (b. 1967)
-│   │   ├── [[Henry_Calvin_Brooks]] (b. 1935)
-│   │   │   ├── [[Joseph_Orren_Brooks]] (1899-1971) & [[Lena_Tuggle]] (1909-2001)
-... (rest of static tree)
+├── Spouse: [[Ashley_Jordan_Brooks]] (b. 1993)
+│   ├── Siblings: 
+│   │   ├── [[Kevin_Scott_Brooks_Jr]] (b. 1996) & [[Logan_Beasley]]
+│   │   │   └── [[Natalie_Brooks]] & [[Malcolm_Brooks]]
+│   │   ├── [[Jamie_Lynne_Emory]]
+│   │   └── [[Jessica_Rae_Brooks]]
+│   └── Parents: [[Kevin_Scott_Brooks_Sr]] (b. 1967) & [[Karen_Lynne_Almond]]
+│       ├── [[Henry_Calvin_Brooks]] (b. 1935)
+│       │   ├── [[Joseph_Orren_Brooks]] (1899-1971) & [[Lena_Tuggle]] (1909-2001)
+│       │   │   ├── [[John_Calvin_Brooks]] (1856-1931) & [[Sarah_Jane_Black]] (1868-1943)
+│       │   │   │   ├── [[Calvin_D_Brooks]] (1832-1862) & [[Mary_M_Books]] (b. 1840)
+│       │   │   │   │   ├── [[Moses_Brooks]] (1806-1906)
+│       │   │   │   │   │   ├── [[Thomas_Brooks_Sr]] (1773-1851)
+│       │   │   │   │   │   │   └── [[George_Brooks]] (1740-1825) & [[Leah_Hurley]] (b. 1750)
+│       │   │   │   │   │   └── [[Jane_Beck]] (1778-1840)
+│       │   │   │   │   │       └── [[Sentleger_Aquilla_Beck]] (1745-1822)
+│       │   │   │   │   │           └── [[James_Beck]] (1701-1768) & [[Sarah_Duvall]]
+│       │   │   │   │   └── [[Margaret_B_King]] (1813-1861)
+│       │   │   │   └── [[Daniel_Black]] (1840-1901)
+│       │   │   │       ├── [[Jacob_Black]] (1783-1850)
+│       │   │   │       └── [[Sarah_Sallie_Miller]] (1798-1906)
+│       │   │   └── [[Matison_Reece_Tuggle]] (1874-1942) & [[Eliza_Jane_Ball]] (1873-1949)
+│       │   │       ├── [[John_Morris_Tuggle_Postmaster]] (1817-1904) & [[Martha_Annabelle_McGee]] (1832-1882)
+│       │   │       └── [[William_Henry_Ball_Jr]] (1841-1908) & [[Sarah_Sally_Ray]] (1853-1923)
+│       │   └── [[Blanche_Maxine_Medlin]] (b. 1938)
+│       │       ├── [[Joe_Madison_Medlin_Sr]] (1908-2005)
+│       │       │   ├── [[Jefferson_Davis_Medlin]] (1870-1962)
+│       │       │   │   ├── [[Ervin_Medlin]] (1822-1901)
+│       │       │   │   └── [[Lydia_P_Muse]] (1822-1904)
+│       │       │   └── [[Georgia_Lee_Grimes]] (1870-1955)
+│       │       ├── [[Henry_Jackson_Grimes]] (b. 1832)
+│       │       └── [[Sallie_J_King]] (b. 1829)
+│       └── [[Madelyn_Warner]] (b. 1935)
+│           ├── [[Affred_A_Warner]] (b. 1882)
+│           │   ├── [[Alfred_Dawson_Dockery_Warner]] (1857-1905)
+│           │   │   ├── [[William_Dawson_Warner]] (1824-1873)
+│           │   │   │   ├── [[Edward_Warner]] (1795-1836)
+│           │   │   │   │   └── [[Hardin_Warner_Sr]] (1755-1829)
+│           │   │   │   └── [[Mary_Dawson]] (b. 1792)
+│           │   │   └── [[Sarah_Thrower]] (1819-1885)
+│           │   └── [[Laura_Jane_Teal]] (1858-1930)
+│           │       ├── [[John_Charles_Teal]] (1838-1918)
+│           │       └── [[Frances_Jane_Scarborough]] (1838-1886)
+│           └── [[Alice_D_Danner]] (1906-1981)
+│               ├── [[Carl_Martin_Danner]] (1878-1960)
+│               └── [[Jalie_Frances_Danner]] (1888-1914)
+├── Mother: [[Kimberly_Anne_Wood]] (b. 1975)
+│   ├── [[Jeremy_Wood]] (b. 1992)
+│   ├── [[Christopher_James_Wood]] (b. 1998)
+│   └── Parents: [[John_Wood]] (b. 1945) & [[Diane_B_Wood]] (b. 1946)
+│       ├── [[John_Perry_Wood_Sr]] (1906-1955) & [[Margaret_Delaney_Champion]] (1881-1955)
+│       │   ├── [[John_Riley_Wood]] (1870-1946)
+│       │   │   ├── [[Mark_John_Wood]] (1834-1907)
+│       │   │   └── [[Rebecca_Smith_Wood]] (1834-1922)
+│       │   └── [[James_Hinton_Champion]] (1853-1934) & [[Mary_Jane_Wood]] (1865-1951)
+│       ├── [[Magnolia_Maggie_Arnold]] (1913-1974)
+│       │   ├── [[William_Bill_Arnold]] (1881-1938)
+│       │   └── [[Mary_Elizabeth_Lizzie_Wood]] (1887-1969)
+│       └── [[Jesse_Alton_Brown]] (1923-1992) & [[Lizzie_Brown]] (b. 1896)
+│           ├── [[Jessie_M_Brown]] (b. 1896)
+│           │   ├── [[Louis_David_Brown]] (1861-1924)
+│           │   └── [[Mary_Della_Alford]] (1867-1951)
+│           └── [[Mississippi_Carson]] (1858-1932)
+│               ├── [[George_Carson]] (b. 1825)
+│               └── [[Sarah_Carson]] (b. 1830)
+└── Paternal Branch: [[Jason_Bard_Waters]] (b. 1970)
+    ├── [[Mike_Waters]] (b. 1946) & [[Sandra_Waters]] (b. 1947)
+    │   ├── [[Gerald_Lee_Waters]] & [[Mary_Mae_Lewis]]
+    │   │   ├── [[Oscar_Rae_Waters]] (1890-1965) & [[Essie_Rae_Malphurs]] (1894-1972)
+    │   │   │   ├── [[James_Que_Waters]] (1857-1940) & [[Martha_Mattie_Waters]] (1864-1939)
+    │   │   │   │   └── [[John_Milton_Waters]] (1835-1896) & [[Flora_Ann_Strickland]] (1839-1910)
+    │   │   │   └── [[William_Daniel_Malphurs]] (1866-1945) & [[Janie_Fowler]] (1867-1945)
+    │   └── [[Rose_Mary_Jones]] (1924-2013) & [[Clyde_Jones_Jr]] (1914-2011)
+    │       ├── [[Anthony_Krupa]] (1896-1970) & [[Rose_Szeles_Krupa]] (1895-1988)
+    │       │   ├── [[Andreas_Kruppa]] (1859-1915) & [[Zuzana_Spirengova]] (1859-1915)
+    │       │   └── [[Sandor_Szeles]] (1872-1930) & [[Juliana_Szeles]] (b. 1868)
+    │       └── [[Clyde_Jones_Sr]] (1887-1962) & [[Maude_Matney_Jones]] (1893-1984)
 ```

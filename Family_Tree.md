@@ -92,6 +92,8 @@ Complete merged family tree. All dates sourced; unsourced dates marked with `(un
 │               │   └── [[Frederick_Danner]] (1759-1839)
 │               └── [[Jalie_Frances_Danner]] (1888-1914)
 ├── [[Kimberly_Anne_Wood]] (b. 1975)
+│   ├── [[Jeremy_Wood]] (b. 1992)
+│   ├── [[Christopher_James_Wood]] (b. 1998)
 │   ├── [[John_Wood]] (b. 1945)
 │   │   ├── [[John_Perry_Wood_Sr]] (1906-1955)
 │   │   │   ├── [[John_Riley_Wood]] (1870-1946)

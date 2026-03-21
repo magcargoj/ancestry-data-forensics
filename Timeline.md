@@ -490,6 +490,7 @@ Chronological index of all dated events across the family tree.
 | 1992 | Birth | [[Jeremy_Wood]] | NC | GEDCOM |
 | 1993-03-29 | Birth | [[Ashley_Jordan_Brooks]] | NC | GEDCOM |
 | 1996       | Birth | [[Kevin_Scott_Brooks_Jr]] | NC | User   |
+| 1998-05-21 | Birth | [[Christopher_James_Wood]] | NC | User   |
 | 2001-01-29 | Death | [[Lena_Tuggle]] | NC | GEDCOM |
 | 2005-01-18 | Death | [[Joe_Madison_Medlin_Sr]] | NC | GEDCOM |
 | 2011-12-21 | Death | [[Clyde_Jones_Jr]] | TN | Obituary |

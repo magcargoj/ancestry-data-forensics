@@ -1,0 +1,19 @@
+# Obsidian specific
+.obsidian/workspace
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/core-plugins.json
+.obsidian/app.json
+.obsidian/appearance.json
+.obsidian/hotkeys.json
+
+# Node/Quartz
+node_modules/
+.quartz-cache/
+public/
+.env
+
+# System
+.DS_Store
+Thumbs.db
+desktop.ini

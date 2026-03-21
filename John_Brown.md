@@ -1,0 +1,39 @@
+---
+type: person
+name: "John Brown"
+born: 1926
+died: 
+family: "Brown"
+confidence: high
+sources:
+  - "Wood Family Tree.ged"
+  - "1940 United States Federal Census"
+created: 2026-03-21
+tags: [genealogy, Brown, person]
+---
+
+# John Brown
+
+## Vital Information
+
+| Field | Value | Source |
+|---|---|---|
+| Full Name | John Brown | Wood Family Tree.ged |
+| Born | abt 1926 | 1940 Census |
+| Birthplace | North Carolina | 1940 Census |
+| Died | [Unknown] | |
+| Burial | [Unknown] | |
+| Father | [[Jessie_M_Brown]] | Wood Family Tree.ged |
+| Mother | [[Lizzie_Brown]] | Wood Family Tree.ged |
+| Spouse | [Unknown] | |
+| Children | [Unknown] | |
+
+## Biography
+
+John Brown was born around 1926 in North Carolina. He was the son of Jessie M. Brown and Lizzie Brown. In 1940, he was living with his parents and siblings in No 3 Township, Upper Conetoe, Edgecombe, North Carolina.
+
+## Document Sources
+
+| Document | Type | Vault Note |
+|---|---|---|
+| 1940 Census | Census | [Year: 1940; Census Place: Upper Conetoe, Edgecombe, North Carolina] |

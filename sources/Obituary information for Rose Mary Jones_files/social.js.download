@@ -1,0 +1,33 @@
+﻿const FacebookShare = (function () {
+  let appId = null;
+
+  function init(id) {
+    if (!id) {
+      console.error("FacebookShare Init Error: appId is required.");
+      return;
+    }
+    appId = id;
+  }
+
+  function isMobile() {
+    return /Mobi|Android|iPhone|iPad|iPod/i.test(navigator.userAgent);
+  }
+
+  function share(url) {
+    if (!appId) {
+      console.error("FacebookShare Error: Module is not initialized. Call Init(appId) first.");
+      return;
+    }
+
+    const shareLink = isMobile()
+      ? `https://www.facebook.com/dialog/share?app_id=${appId}&display=popup&href=${encodeURIComponent(url)}`
+      : `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(url)}`;
+
+    window.open(shareLink, "sharer", "toolbar=0, status=0, width=626, height=436");
+  }
+
+  return {
+    Init: init,
+    Share: share,
+  };
+})();

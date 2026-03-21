@@ -1,17 +1,21 @@
 # Wood Family History
 
-A digital archive of the **Wood** and **Brooks** family lineages.
+Explore the genealogical records and stories of the Wood and Brooks families.
 
-### Research Hub
-- [Full Family Tree](Family_Tree.md)
-- [Historical Timeline](Timeline.md)
-- [Research Log](Research_Log.md)
+### 🌳 Primary Family Tree
+**[View the Full Interactive Tree](Family_Tree.md)**
+
+---
 
 ### Core Lineages
-- **Wood & Arnold** (North Carolina)
-- **Brooks & Almond** (North Carolina, Virginia)
-- **Kruppa & Szeles** (Slovakia)
-- **Waters & Green** (Georgia, Florida)
+- **[Wood Family](Wood.md)** (North Carolina)
+- **[Brooks Family](Brooks.md)** (North Carolina & Virginia)
+- **[Slovakian Roots](Slovakia.md)** (Kruppa & Szeles Lines)
+- **[Waters Family](Waters.md)** (Georgia & Florida)
 
-### Contributions
-If you have corrections or new information, please use the [Contact Form](Contact.md).
+---
+
+### Tools & Logs
+- [Historical Timeline](Timeline.md)
+- [Research Log](Research_Log.md)
+- [Contact & Contributions](Contact.md)

@@ -1,5 +1,5 @@
 - [Home](README.md)
-- [Family Tree](Family_Tree.md)
+- [Full Family Tree](Family_Tree.md)
 - [Timeline](Timeline.md)
 - [Research Log](Research_Log.md)
 - [Contact](Contact.md)

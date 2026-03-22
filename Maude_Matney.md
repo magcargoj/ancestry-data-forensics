@@ -29,6 +29,7 @@ tags: [genealogy, Matney, Jones, person]
 
 ## Biography
 
+
 Maude Elma "Mama Jones" Matney was born on March 25, 1893, in Montezuma, Avery County, North Carolina. She was the daughter of Martin Luther Matney and Susan Margaret Loudermilk. She married Clyde Jones Sr. She passed away on October 26, 1984, in Johnson City, Tennessee.
 
 ## Document Sources

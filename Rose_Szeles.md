@@ -22,12 +22,13 @@ tags: [genealogy, Szelesova, Kruppa, person]
 | Birthplace | Debraď, Moldava nad Bodvou, Slovakia | Wood Family Tree.ged |
 | Died | 21 Sep 1988 | Wood Family Tree.ged |
 | Burial | UNKNOWN | Wood Family Tree.ged |
-| Father | UNKNOWN | Wood Family Tree.ged |
-| Mother | UNKNOWN | Wood Family Tree.ged |
+| Father | [[Emericus_James_Szeles]] | Wood Family Tree.ged |
+| Mother | [[Anna_Molnar]] | Wood Family Tree.ged |
 | Spouse | [[Anthony_Emil_Kruppa]] | Wood Family Tree.ged |
 | Children | [[Rose_Mary_Jones]] | Wood Family Tree.ged |
 
 ## Biography
+
 
 Rozalia (Rose) Szelesova was born on March 4, 1895, in Debraď, Slovakia. She married Anthony Emil Kruppa. She lived in Beaver Falls, Pennsylvania, and passed away on September 21, 1988.
 

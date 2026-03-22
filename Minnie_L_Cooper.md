@@ -4,7 +4,7 @@ name: "Minnie L Cooper"
 born: 1889-06-02
 died: 1971-11-18
 family: "Cooper"
-confidence: high
+confidence: low
 sources:
   - "Wood Family Tree.ged"
 created: 2026-03-24
@@ -24,6 +24,10 @@ tags: [genealogy, Cooper, Almond, person]
 | Children | [[Mack_Almond]] | Wood Family Tree.ged |
 
 ## Biography
+
+> [!NOTE]
+> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
+
 
 Minnie L. Cooper was born in Stanly County, NC, in 1889. She married Matthew Monroe Almond. She passed away in Albemarle, NC, in 1971.
 

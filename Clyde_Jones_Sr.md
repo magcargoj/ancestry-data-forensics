@@ -29,6 +29,7 @@ tags: [genealogy, Jones, person]
 
 ## Biography
 
+
 Clyde "Papa" Jones Sr. was born on October 23, 1887, in Avery County, North Carolina. He was the son of Henry Raymond Jones Sr. and Charlotte Diane Vance. He married Maude Elma Matney. He passed away on June 14, 1962, in Johnson City, Tennessee.
 
 ## Document Sources

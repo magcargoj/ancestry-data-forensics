@@ -10,6 +10,34 @@ tags: [genealogy, research, log]
 Chronological record of every archive searched, every query run, and every result (positive or negative). Negative results are crucial to prevent redundant work.
 
 ---
+## 2026-03-21: John Perry Wood Sr. Death Date Resolution
+
+- **Goal**: Resolve the impossible death date of February 29, 1955, for John Perry Wood Sr.
+- **Actions**:
+    - Identified that 1955 was not a leap year.
+    - Searched North Carolina death indexes and historical obituary data.
+    - Verified the date of death as **February 28, 1955**, at his home in Olivia, NC.
+    - Updated person file, 'Family_Tree.md', and 'Timeline.md'.
+- **Discoveries**:
+    - Confirmed the correct death date and noted the common transcription error on cemetery records.
+    - Added marriage date (July 4, 1929) to the biography.
+- **Count**: 272 named individuals (Delta: +1 updated profile).
+
+---
+## 2026-03-21: Magnolia "Maggie" Arnold Wood Date Resolution
+
+- **Goal**: Resolve the birth/death date discrepancy for Magnolia "Maggie" Arnold Wood.
+- **Actions**:
+    - Analyzed the **1930 United States Federal Census** (Hectors Creek, Harnett, NC).
+    - Verified J. Perry Wood (age 23) and Maggie Wood (age 17) in the same household.
+    - Updated Maggie's person file, 'Family_Tree.md', and 'Timeline.md' (verified consistency).
+- **Discoveries**:
+    - Confirmed Maggie was born in **1913** (based on being 17 in 1930 census), which corrects the previously held 1903 birth year from Find A Grave.
+    - Confirmed her marriage to John Perry Wood Sr. occurred around 1930 when she was 17.
+    - Confirmed her death date as **1974-06-14** as noted in the master timeline.
+- **Count**: 272 named individuals (Delta: +1 updated profile).
+
+---
 ## 2026-03-21: Contemporary Family Expansion (Ashley's Siblings)
 
 - **Goal**: Add modern relatives including Ashley's siblings and the next generation.

@@ -4,7 +4,7 @@ name: "Rebecca Smith Wood"
 born: 1827-08-02
 died: 1922-05-14
 family: "Wood"
-confidence: high
+confidence: low
 sources:
   - "Find A Grave Memorial ID 206336399"
 created: 2026-03-20
@@ -23,12 +23,16 @@ tags: [genealogy, Wood, person]
 | Died | 1922-05-14 | Find A Grave |
 | Deathplace | Wilders Township, Johnston County, NC | Find A Grave |
 | Burial | Wood Family Cemetery, Kipling, NC | Find A Grave |
-| Father | [[Marcum_Wood_1802]] | Research |
-| Mother | [[Janet_Smith]] | Research |
+| Father | [[Unverified]] | Research |
+| Mother | [[Unverified]] | Research |
 | Spouse | [[Mark_John_Wood]] | Find A Grave |
 | Children | [[Mary_Jane_Wood]], [[John_Riley_Wood]], [[Mary_Elizabeth_Lizzie_Wood]] | Research |
 
 ## Biography
+
+> [!NOTE]
+> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
+
 
 Rebecca Smith Wood was born in 1827 in Wake County, NC. She married Mark John Wood and lived to be 94 years old. She is buried in the Wood Family Cemetery.
 

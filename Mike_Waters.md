@@ -22,7 +22,7 @@ tags: [genealogy, Waters, person]
 | Birthplace | Asheville, Buncombe, North Carolina, USA | Wood Family Tree.ged |
 | Died | LIVING | Wood Family Tree.ged |
 | Burial | N/A | Wood Family Tree.ged |
-| Father | [[UNKNOWN]] | Wood Family Tree.ged |
+| Father     | [[Gerald_Lee_Waters]]                               | Wood Family Tree.ged |
 | Mother | [[Mary_Richesen]] | Wood Family Tree.ged |
 | Spouse | [[Sandra_Waters]] | Wood Family Tree.ged |
 | Children | [[Jason_Bard_Waters]] | Wood Family Tree.ged |

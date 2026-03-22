@@ -23,7 +23,7 @@ tags: [genealogy, Almond, person]
 | Died | [unknown] | Wood Family Tree.ged |
 | Burial | [unknown] | Wood Family Tree.ged |
 | Father | [[Jerry_Almond]] | Wood Family Tree.ged |
-| Mother | [unknown] | Wood Family Tree.ged |
+| Mother     | [[Madelyn_Warner]]                                   | Wood Family Tree.ged |
 | Spouse | [[Kevin_Scott_Brooks_Sr]] (m. 30 Jun 1990, Sanford, NC) | Wood Family Tree.ged |
 | Children | [[Ashley_Jordan_Brooks]] | Wood Family Tree.ged |
 

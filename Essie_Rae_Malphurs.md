@@ -22,12 +22,13 @@ tags: [genealogy, malphurs, person]
 | Birthplace | Brooker, Bradford, Florida, United States | Wood Family Tree.ged |
 | Died | 15 Sep 1972 | Wood Family Tree.ged |
 | Burial | [Unknown] | Wood Family Tree.ged |
-| Father | [[Joseph_Ulric_Washington_Malphurs]] | Wood Family Tree.ged |
-| Mother | [[Mary_Elizabeth_Cail]] | Wood Family Tree.ged |
+| Father | [[James_Edward_Malphurs]] | Wood Family Tree.ged |
+| Mother | [[Mary_Rebecca_Holder]] | Wood Family Tree.ged |
 | Spouse | [[Oscar_Rae_Waters]] | Wood Family Tree.ged |
 | Children | [[Gerald_Lee_Waters]] | Wood Family Tree.ged |
 
 ## Biography
+
 
 Essie Rae Malphurs was born on December 31, 1894, in Brooker, Bradford County, Florida. She married Oscar Rae Waters and they had a son, Gerald Lee Waters. Essie passed away on September 15, 1972, in Lakeland, Polk County, Florida.
 

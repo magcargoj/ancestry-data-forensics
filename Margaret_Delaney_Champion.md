@@ -7,6 +7,9 @@ family: "Champion"
 confidence: high
 sources:
   - "Find A Grave Memorial ID 74069796"
+  - "1910 Census"
+  - "1920 Census"
+  - "1930 Census"
 created: 2026-03-20
 tags: [genealogy, Champion, Wood, person]
 ---
@@ -24,13 +27,14 @@ tags: [genealogy, Champion, Wood, person]
 | Deathplace | Harnett County, NC | Find A Grave |
 | Burial | Wood Family Cemetery, Kipling, NC | Find A Grave |
 | Father | [[James_Hinton_Champion]] | Research |
-| Father | [[James_Hinton_Champion]] | Find A Grave |
-| Mother | [[Mary_Jane_Wood]] | Find A Grave |
-| Spouse | [[John_Riley_Wood]] (married uncle) | Find A Grave |
+| Mother | [[Mary_Jane_Wood]] | Research / Death Certificate |
+| Spouse | [[John_Riley_Wood]] | Find A Grave |
 
 ## Biography
 
-Margaret Delaney Champion Wood was born in 1881 in Harnett County, NC. She married John Riley Wood around 1897 and had a large family. She passed away in 1955 and is buried in the Wood Family Cemetery.
+Margaret Delaney Champion Wood was born on March 9, 1881, in Harnett County, NC. She was the daughter of James Hinton Champion and Mary Jane Wood. Around 1897, she married John Riley Wood, who was her uncle (the brother of her mother, Mary Jane Wood). They raised a large family, including John Perry Wood Sr.
+
+In census records from 1910 to 1930, she is listed with John Riley Wood and their children in Harnett County. She passed away in 1955 and is buried in the Wood Family Cemetery.
 
 ## Document Sources
 

@@ -24,11 +24,12 @@ tags: [genealogy, surname, person]
 | Died | 3 May 1943 | Wood Family Tree.ged |
 | Burial | Unknown | Wood Family Tree.ged |
 | Father | [[Daniel_Black]] | Wood Family Tree.ged |
-| Mother | [[Louise_Ruth_Miller]] | Wood Family Tree.ged |
+| Mother | [[Sarah_Sallie_Miller]] | Wood Family Tree.ged |
 | Spouse | [[John_Calvin_Brooks]] | Wood Family Tree.ged |
 | Children | [[Joseph_Orren_Brooks]] | Wood Family Tree.ged |
 
 ## Biography
+
 
 Sarah Jane Black was born in Ashe County, North Carolina, United States of America in 22 October 1868. They passed away in Clifton, Ashe County, North Carolina, United States of America in 3 May 1943.
 

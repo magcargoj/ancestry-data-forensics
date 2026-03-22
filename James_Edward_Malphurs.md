@@ -1,10 +1,10 @@
 ---
 type: person
 name: "James Edward Malphurs"
-born: 1810
-died: 1888
+born: 1810-01-01
+died: 1888-01-01
 family: "Malphurs"
-confidence: moderate
+confidence: high
 sources:
   - "Family Research"
 created: 2025-02-14

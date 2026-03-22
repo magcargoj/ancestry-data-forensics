@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Mary Jane Wood"
-born: 1865
-died: 1951
+born: 1865-01-01
+died: 1951-01-01
 family: "Wood"
 confidence: high
 sources:
@@ -26,6 +26,7 @@ tags: [genealogy, Wood, person]
 | Children | [[Margaret_Delaney_Champion]] | Research |
 
 ## Biography
+
 
 Mary Jane Wood was the daughter of Mark John Wood and Rebecca Smith Wood. She married James Hinton Champion.
 

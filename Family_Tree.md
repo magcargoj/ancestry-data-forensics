@@ -31,12 +31,16 @@ Complete merged family tree of the Wood and Brooks lineages.
 │       │   │   └── [[Matison_Reece_Tuggle]] (1874-1942) & [[Eliza_Jane_Ball]] (1873-1949)
 │       │   │       ├── [[John_Morris_Tuggle_Postmaster]] (1817-1904) & [[Martha_Annabelle_McGee]] (1832-1882)
 │       │   │       └── [[William_Henry_Ball_Jr]] (1841-1908) & [[Sarah_Sally_Ray]] (1853-1923)
-│       │   └── [[Blanche_Maxine_Medlin]] (b. 1938)
-│       │       ├── [[Joe_Madison_Medlin_Sr]] (1908-2005)
-│       │       │   ├── [[Jefferson_Davis_Medlin]] (1870-1962)
-│       │       │   │   ├── [[Ervin_Medlin]] (1822-1901)
-│       │       │   │   └── [[Lydia_P_Muse]] (1822-1904)
-│       │       │   └── [[Georgia_Lee_Grimes]] (1870-1955)
+│   │   │   └── [[Blanche_Maxine_Medlin]] (b. 1946)
+│   │   │       ├── [[Joe_Madison_Medlin_Sr]] (1908-2005)
+│   │   │       │   ├── [[Jefferson_Davis_Medlin]] (1870-1962)
+│   │   │       │   │   ├── [[Ervin_Medlin]] (1822-1901)
+│   │   │       │   │   └── [[Lydia_P_Muse]] (1822-1904)
+│   │   │       │   └── [[Georgia_Lee_Grimes]] (1870-1955)
+│   │       │   └── [[Ella_Blanche_Eury]] (1911-1955)
+│   │       │           ├── [[Robert_Franklin_Eury]] (1883-1955)
+│   │       │           └── [[Minnie_Lou_Dennis_Eury]] (1886-1965)
+
 │       │       ├── [[Henry_Jackson_Grimes]] (b. 1832)
 │       │       └── [[Sallie_J_King]] (b. 1829)
 │       └── [[Madelyn_Warner]] (b. 1935)
@@ -53,35 +57,63 @@ Complete merged family tree of the Wood and Brooks lineages.
 │           └── [[Alice_D_Danner]] (1906-1981)
 │               ├── [[Carl_Martin_Danner]] (1878-1960)
 │               └── [[Jalie_Frances_Danner]] (1888-1914)
-├── Mother: [[Kimberly_Anne_Wood]] (b. 1975)
+├── Mother: [[Kimberly_Wood]] (b. 1975)
 │   ├── [[Jeremy_Wood]] (b. 1992)
 │   ├── [[Christopher_James_Wood]] (b. 1998)
 │   └── Parents: [[John_Wood]] (b. 1945) & [[Diane_B_Wood]] (b. 1946)
 │       ├── [[John_Perry_Wood_Sr]] (1906-1955) & [[Margaret_Delaney_Champion]] (1881-1955)
 │       │   ├── [[John_Riley_Wood]] (1870-1946)
-│       │   │   ├── [[Mark_John_Wood]] (1834-1907)
-│       │   │   └── [[Rebecca_Smith_Wood]] (1834-1922)
+│       │   │   ├── Father: [[Mark_John_Wood]] (1834-1907)
+│       │   │   └── Mother: [[Rebecca_Smith_Wood]] (1827-1922)
 │       │   └── [[James_Hinton_Champion]] (1853-1934) & [[Mary_Jane_Wood]] (1865-1951)
+│       │       ├── Father: [[James_Champion]] & [[Mary_Averett]]
+│       │       └── Mother: [[Mark_John_Wood]] (1834-1907) & [[Rebecca_Smith_Wood]] (1827-1922)
 │       ├── [[Magnolia_Maggie_Arnold]] (1913-1974)
-│       │   ├── [[William_Bill_Arnold]] (1881-1938)
-│       │   └── [[Mary_Elizabeth_Lizzie_Wood]] (1887-1969)
-│       └── [[Jesse_Alton_Brown]] (1923-1992) & [[Lizzie_Brown]] (b. 1896)
-│           ├── [[Jessie_M_Brown]] (b. 1896)
-│           │   ├── [[Louis_David_Brown]] (1861-1924)
-│           │   └── [[Mary_Della_Alford]] (1867-1951)
-│           └── [[Mississippi_Carson]] (1858-1932)
-│               ├── [[George_Carson]] (b. 1825)
-│               └── [[Sarah_Carson]] (b. 1830)
-└── Paternal Branch: [[Jason_Bard_Waters]] (b. 1970)
+│       │   ├── [[Lonnie_Frank_Arnold_Sr]] (1866-1948) & [[Magnolia_Catherine_Tutor]] (1883-1972)
+│       │   │   ├── [[Thomas_Harvill_Arnold]] (1842-1904) & [[Elizabeth_Betsy_Rebecca_Newell]] (1841-1908)
+│       │   │   └── [[Alfred_Young_Tutor]] (1852-1940) & [[Charlotte_Lottie_Honeycutt]] (1858-1941)
+└── [[Jesse_Alton_Brown]] (1923-1992) & [[Lizzie_Briley]] (b. 1896)
+     ├── [[Jessie_M_Brown]] (b. 1896)
+     │   ├── Father: [[UNKNOWN]]
+     │   └── Mother: [[UNKNOWN]]
+     └── [[Mississippi_Carson]] (1858-1932)
+         ├── Father: [[George_Carson]]
+         └── Mother: [[Sarah_Carson]]
+     └── Paternal Branch: [[Jason_Bard_Waters]] (b. 1970)
     ├── [[Mike_Waters]] (b. 1946) & [[Sandra_Waters]] (b. 1947)
     │   ├── [[Gerald_Lee_Waters]] & [[Mary_Mae_Lewis]]
-    │   │   ├── [[Oscar_Rae_Waters]] (1890-1965) & [[Essie_Rae_Malphurs]] (1894-1972)
-    │   │   │   ├── [[James_Que_Waters]] (1857-1940) & [[Martha_Louise_Thomas]] (1864-1939)
-    │   │   │   │   └── [[John_Milton_Waters]] (1835-1896) & [[Flora_Ann_Strickland]] (1839-1910)
-    │   │   │   └── [[William_Daniel_Malphurs]] (1866-1945) & [[Janie_Fowler]] (1867-1945)
-    │   └── [[Rose_Mary_Jones]] (1924-2013) & [[Clyde_Jones_Jr]] (1914-2011)
-    │       ├── [[Anthony_Krupa]] (1896-1970) & [[Rose_Szeles_Krupa]] (1895-1988)
-    │       │   ├── [[Andreas_Kruppa]] (1859-1915) & [[Zuzana_Spirengova]] (1859-1915)
-    │       │   └── [[Sandor_Szeles]] (1872-1930) & [[Juliana_Szeles]] (b. 1868)
-    │       └── [[Clyde_Jones_Sr]] (1887-1962) & [[Maude_Matney_Jones]] (1893-1984)
+    │   │   ├── Father: [[Oscar_Rae_Waters]] (1890-1965)
+    │   │   │   ├── Father: [[William_W_Waters]]
+    │   │   │   └── Mother: [[Eliza_Anderson]]
+    │   │   └── Mother: [[Essie_Rae_Malphurs]] (1894-1972)
+    │   │       ├── Father: [[William_Daniel_Malphurs]]
+    │   │       └── Mother: [[Janie_Fowler]]
+    │   └── [[Landon_T_Lewis]] (1879-1966) & [[Lena_Beatrice_Smith]] (1890-1991)
+    │       ├── [[James_Murray_Lewis]]
+    │       │   ├── Father: [[Unverified]]
+    │       │   └── Mother: [[Unverified]]
+    │       ├── [[Eveline_Lewis]]
+    │       │   ├── Father: [[Unverified]]
+    │       │   └── Mother: [[Unverified]]
+    │       ├── [[John_Madison_Smith_Jr]]
+    │       │   ├── Father: [[Unverified]]
+    │       │   └── Mother: [[Unverified]]
+    │       └── [[Olive_Pillsbury_Traver]]
+    │           ├── Father: [[Unverified]]
+    │           └── Mother: [[Unverified]]
+    └── [[Rose_Mary_Jones]] (1924-2013) & [[Clyde_Jones_Jr]] (1914-2011)
+    │       ├── [[Anthony_Krupa]] (1896-1970) & [[Rose_Szeles]] (1895-1988)
+    │       │   ├── [[Andreas_Kruppa]]
+    │       │   │   ├── Father: [[Unverified]]
+    │       │   │   └── Mother: [[Unverified]]
+    │       │   ├── [[Zuzana_Spirengova]]
+    │       │   │   ├── Father: [[Unverified]]
+    │       │   │   └── Mother: [[Unverified]]
+    │       │   ├── [[Sandor_Szeles]]
+    │       │   │   ├── Father: [[Unverified]]
+    │       │   │   └── Mother: [[Unverified]]
+    │       │   └── [[Juliana_Szeles]]
+    │       │       ├── Father: [[Unverified]]
+    │       │       └── Mother: [[Unverified]]
+    │       └── [[Clyde_Jones_Sr]] (1887-1962) & [[Maude_Matney]] (1893-1984)
 ```

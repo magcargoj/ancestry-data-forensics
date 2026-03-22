@@ -351,7 +351,7 @@ Chronological index of all dated events across the family tree.
 | 1891-07-14 | Death | [[Simon_Joseph_Nobles]] | NC | GEDCOM |
 | 1891 | Death | [[Drusila_Peterson]] | NC | GEDCOM |
 | 1893 | Death | [[Ervin_Medlin]] | NC | Person_File |
-| 1893-03-25 | Birth | [[Maude_Matney_Jones]] | Avery, NC | GEDCOM |
+| 1893-03-25 | Birth    | [[Maude_Matney]]                               | Avery, NC            | GEDCOM      |
 | 1894-12-23 | Death | [[Thomas_Wright_Matney]] | NC | GEDCOM |
 | 1894-12-31 | Birth | [[Essie_Rae_Malphurs]] | FL | GEDCOM |
 | 1895-03-04 | Birth | [[Rozalia_Szelesova]] | Slovakia | GEDCOM |
@@ -391,7 +391,7 @@ Chronological index of all dated events across the family tree.
 | 1909-06-24 | Birth | [[Lena_Tuggle]] | VA | GEDCOM |
 | 1909-09-09 | Death | [[Susan_Charity_Wilson]] | NC | GEDCOM |
 | 1910-08-09 | Death | [[Flora_Ann_Strickland]] | Lake Butler, FL | GEDCOM |
-| 1911-07-11 | Birth | [[Blanche_Eury]] | NC | GEDCOM |
+| 1911-07-11 | Birth    | [[Ella_Blanche_Eury]]                           | NC                   | GEDCOM      |
 | 1911-01-07 | Death | [[Margaret_L_Blackwelder]] | Stanly, NC | GEDCOM |
 | 1913-01-31 | Birth | [[Magnolia_Maggie_Arnold]] | Harnett, NC | Person_File |
 | 1913-11-22 | Death | [[Shadrick_Briley]] | Pitt, NC | GEDCOM |
@@ -456,10 +456,10 @@ Chronological index of all dated events across the family tree.
 | 1952-02-02 | Death | [[Thomas_Edwin_Goodrich]] | NC | GEDCOM |
 | 1952-08-30 | Death | [[Rachel_Arjean_Stokes]] | NC | GEDCOM |
 | 1953-06-20 | Marriage | [[Jerry_Mack_Almond]] & [[Madelyn_Warner]] | Mecklenburg, NC | GEDCOM |
-| 1955-02-29 | Death | [[John_Perry_Wood_Sr]] | NC | Person_File |
+| 1955-02-28 | Death | [[John_Perry_Wood_Sr]] | NC | NC Death Record |
 | 1955-03-12 | Death | [[Georgia_Lee_Grimes]] | NC | GEDCOM |
 | 1955-03-12 | Death | [[Georgia_Lee_Grimes]] | NC | GEDCOM |
-| 1955-04-15 | Death | [[Blanche_Elaine_Eury]] | NC | GEDCOM |
+| 1955-04-15 | Death    | [[Ella_Blanche_Eury]]                           | NC                   | GEDCOM      |
 | 1955-11-09 | Death | [[Robert_Franklin_Eury]] | NC | GEDCOM |
 | 1955-12-05 | Death | [[Margaret_Delaney_Champion]] | Harnett, NC | Person_File |
 | 1957-03-10 | Death | [[Susan_Margaret_Loudermilk]] | TN | GEDCOM |
@@ -482,8 +482,8 @@ Chronological index of all dated events across the family tree.
 | 1974-06-14 | Death | [[Magnolia_Maggie_Arnold]] | Wake, NC | Person_File |
 | 1975 | Birth | [[Kimberly_Wood]] | NC | GEDCOM |
 | 1981 | Death | [[Alice_D_Danner]] | NC | GEDCOM |
-| 1984-10-26 | Death | [[Maude_Elma_Matney]] | TN | GEDCOM |
-| 1988-09-21 | Death | [[Rose_Szeles_Krupa]] | PA | GEDCOM |
+| 1984-10-26 | Death    | [[Maude_Matney]]                               | TN                   | GEDCOM      |
+| 1988-09-21 | Death    | [[Rose_Szeles]]                                | PA                   | GEDCOM      |
 | 1990-06-30 | Marriage | [[Kevin_Scott_Brooks_Sr]] & [[Karen_Lynne_Almond]] | NC | GEDCOM |
 | 1991-02-01 | Death | [[Lena_Beatrice_Smith]] | TN | GEDCOM |
 | 1992-05-10 | Death | [[Jesse_Alton_Brown]] | NC | GEDCOM |

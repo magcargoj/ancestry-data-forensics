@@ -30,6 +30,7 @@ tags: [genealogy, surname, person]
 
 ## Biography
 
+
 Alfred Dawson Dockery Warner was born in Moore County, North Carolina, USA in 26 Oct 1857. They passed away in Charlotte, Mecklenburg, North Carolina, USA in 1 Apr 1905.
 
 ## Document Sources

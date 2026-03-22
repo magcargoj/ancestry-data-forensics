@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Lydia P Muse"
-born: 1822
-died: 1904
+born: 1822-01-01
+died: 1904-01-01
 family: "Muse"
 confidence: high
 sources:

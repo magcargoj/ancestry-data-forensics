@@ -1,8 +1,8 @@
 ---
 type: person
 name: "Henry Raymond Jones Sr"
-born: 1854-00-00
-died: 1932-00-00
+born: 1854-01-01
+died: 1932-01-01
 family: "Jones"
 confidence: high
 sources:

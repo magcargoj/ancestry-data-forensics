@@ -30,6 +30,7 @@ tags: [genealogy, surname, person]
 
 ## Biography
 
+
 John Calvin Brooks was born in Wilkes, North Carolina, United States in 15 Aug 1856. They passed away in Ashe, North Carolina, United States in 7 Nov 1931.
 
 ## Document Sources

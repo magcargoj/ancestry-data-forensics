@@ -24,12 +24,13 @@ tags: [genealogy, Waters, person]
 | Burial | Newmansville Cemetery, Alachua County, FL | Wikitree |
 | Father | [[William_W_Waters]] | 1900 Census |
 | Mother | [[Eliza_Anderson]] | Research |
-| Mother | [[Martha_Louise_Thomas]] | User/Marriage Records |
+| Mother | [[Eliza_Anderson]] | User/Marriage Records |
 
 | Spouse | Iva B. Lightsey (m. 1909) | 1910 Census |
 | Children | [[Gerald_Lee_Waters]] | Wood Family Tree.ged |
 
 ## Biography
+
 
 Oscar Rae Waters was born in September 1890 in Bell, Florida (then Alachua County). He was the son of William W. Waters and Eliza Anderson. He worked as a telegraph operator for the railroad. He married Iva B. Lightsey in 1909 and later Essie Rae Malphurs. He passed away in 1985 and is buried in Newmansville Cemetery.
 

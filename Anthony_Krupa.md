@@ -25,6 +25,7 @@ tags: [genealogy, Kruppa, person]
 
 ## Biography
 
+
 Anthony Emil Kruppa (Tony) emigrated from Stankovany, Slovakia (then Hungary) to the United States around 1912. He initially settled in Jersey Shore, Lycoming County, Pennsylvania, where he worked in the railroad or coal industry. By 1920, he and his wife Rose were living in Jersey Shore before later moving to Beaver County. He passed away in New Brighton in 1970.
 
 ## Document Sources

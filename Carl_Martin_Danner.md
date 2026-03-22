@@ -23,12 +23,13 @@ tags: [genealogy, surname, person]
 | Birthplace | Watauga, North Carolina, USA | Wood Family Tree.ged |
 | Died | 10 May 1960 | Wood Family Tree.ged |
 | Burial | Unknown | Wood Family Tree.ged |
-| Father | None | Wood Family Tree.ged |
-| Mother | None | Wood Family Tree.ged |
+| Father | [[Frederick_Danner]] | Wood Family Tree.ged |
+| Mother | [[Frederick_Danner]] | Wood Family Tree.ged |
 | Spouse | [[Jalie_Frances_Danner]] | Wood Family Tree.ged |
 | Children | [[Alice_D_Danner]] | Wood Family Tree.ged |
 
 ## Biography
+
 
 Carl Martin Danner was born in Watauga, North Carolina, USA in 31 Dec 1878. They passed away in Morganton, Burke, North Carolina, USA in 10 May 1960.
 

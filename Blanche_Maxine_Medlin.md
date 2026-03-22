@@ -19,12 +19,12 @@ tags: [genealogy, surname, person]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Blanche Maxine Medlin | Wood Family Tree.ged |
-| Born | Unknown | Wood Family Tree.ged |
-| Birthplace | Unknown | Wood Family Tree.ged |
-| Died | Unknown | Wood Family Tree.ged |
-| Burial | Unknown | Wood Family Tree.ged |
-| Father | [[Joe_Madison_Medlin_Sr.]] | Wood Family Tree.ged |
-| Mother | [[Blanche_Elaine_Eury]] | Wood Family Tree.ged |
+| Born | 1946 | Research |
+| Birthplace | North Carolina | Research |
+| Died | LIVING | |
+| Burial | [N/A] | |
+| Father | [[Joe_Madison_Medlin_Sr]] | Research |
+| Mother | [[Ella_Blanche_Eury]] | Research |
 | Spouse | [[Henry_Calvin_Brooks]] | Wood Family Tree.ged |
 | Children | [[Kevin_Scott_Brooks_Sr]] | Wood Family Tree.ged |
 

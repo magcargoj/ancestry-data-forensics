@@ -25,6 +25,7 @@ tags: [genealogy, Danner, person]
 
 ## Biography
 
+
 Jalie Frances Danner was born in 1888 in North Carolina. She married Carl Martin Danner. She passed away at the young age of 26 in 1914.
 
 ## Document Sources

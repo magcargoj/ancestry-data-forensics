@@ -30,6 +30,7 @@ tags: [genealogy, surname, person]
 
 ## Biography
 
+
 Landon T Lewis was born in Carters Furnace, Carter, Tennessee, United States in 12 April 1879. They passed away in Elizabethton, Carter, Tennessee, United States of America in 9 Jul 1966.
 
 ## Document Sources

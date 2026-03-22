@@ -1,8 +1,8 @@
 ---
 type: person
 name: "James Hinton Champion"
-born: 1853
-died: 1934
+born: 1853-01-01
+died: 1934-01-01
 family: "Champion"
 confidence: high
 sources:
@@ -20,12 +20,13 @@ tags: [genealogy, Champion, person]
 | Full Name | James Hinton Champion | Research |
 | Born | 1853 | Research |
 | Died | 1934 | Research |
-| Father | [[James_Hinton_Champion_Sr]] | Research |
-| Mother | [[Elsie_Beasley]] | Research |
+| Father | [[Unverified]] | Research |
+| Mother | [[Unverified]] | Research |
 | Spouse | [[Mary_Jane_Wood]] | Research |
 | Children | [[Margaret_Delaney_Champion]] | Research |
 
 ## Biography
+
 
 James Hinton Champion was born in 1853 in Harnett County, NC. He married Mary Jane Wood.
 

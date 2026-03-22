@@ -28,6 +28,7 @@ tags: [genealogy, Grimes, person]
 
 ## Biography
 
+
 Georgia Lee Grimes was born in Lexington, NC, in 1870. She was the daughter of Henry Jackson Grimes and Sallie J. King. She married Jefferson Davis Medlin in 1890.
 
 ## Document Sources

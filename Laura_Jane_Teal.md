@@ -27,6 +27,7 @@ tags: [genealogy, Teal, person]
 
 ## Biography
 
+
 Laura Jane Teal was born in Montgomery County, NC, in 1858. She married Alfred Dawson Dockery Warner. She passed away in Charlotte, NC, in 1930.
 
 ## Document Sources

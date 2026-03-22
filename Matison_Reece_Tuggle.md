@@ -4,7 +4,7 @@ name: "Matison Reece Tuggle"
 born: 1874-01-01
 died: 1942-06-30
 family: "Tuggle"
-confidence: high
+confidence: low
 sources:
   - "Wood Family Tree.ged"
   
@@ -23,12 +23,16 @@ tags: [genealogy, surname, person]
 | Birthplace | Russell County, Virginia, USA | Wood Family Tree.ged |
 | Died | 30 Jun 1942 | Wood Family Tree.ged |
 | Burial | Unknown | Wood Family Tree.ged |
-| Father | [[John_Morris_Tuggle_Postmaster]] | Wood Family Tree.ged |
-| Mother | [[Martha_Annabelle_McGee]] | Wood Family Tree.ged |
+| Father | [[Unverified]] | Wood Family Tree.ged |
+| Mother | [[Unverified]] | Wood Family Tree.ged |
 | Spouse | [[Eliza_Jane_Ball]] | Wood Family Tree.ged |
 | Children | [[Lena_Tuggle]] | Wood Family Tree.ged |
 
 ## Biography
+
+> [!NOTE]
+> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
+
 
 Matison Reece Tuggle was born in Russell County, Virginia, USA in June 1874. They passed away in Saltville, Washington, Virginia, in 30 Jun 1942.
 

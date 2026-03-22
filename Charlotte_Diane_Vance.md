@@ -1,7 +1,7 @@
 ---
 type: person
 name: "Charlotte Diane Vance"
-born: 1863-10-00
+born: 1863-10-01
 died: 1946-12-08
 family: "Vance"
 confidence: high

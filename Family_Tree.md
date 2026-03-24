@@ -84,13 +84,21 @@ graph LR
     MFMMM --> MFMMMF_M["<b><a href='#/Martha_Honeycutt.md'>Martha</a></b>"]
 
     MM --> MMF["<b><a href='#/Jesse_Alton_Brown.md'>Jesse Alton Brown</a></b><br/>B: 1923 NC<br/>D: 1992 NC"]
-    MM --> MMM["<b><a href='#/Virginia_Dare_Wilson.md'>Virginia Dare Wilson Brown</a></b><br/>B: 1923 NC<br/>D: 2017 NC"]
+    MM --> MMM["<b><a href='#/Virginia_Dare_Wilson_Brown.md'>Virginia Dare Wilson Brown</a></b><br/>B: 1923 NC<br/>D: 2017 NC"]
     
-    MMF --> MMFF["<b><a href='#/Jessie_M_Brown.md'>Jessie M. Brown</a></b><br/>B: 1896"]
-    MMF --> MMFM["<b>Mary Brown</b>"]
+    MMF --> MMFF_F["<b><a href='#/Jesse_Marcus_Brown.md'>Jesse Marcus Brown</a></b><br/>B: 1896 NC"]
+    MMF --> MMFF_M["<b><a href='#/Lizzie_Briley.md'>Lizzie Briley</a></b><br/>B: 1896 NC"]
+    MMFF_F --> MMFF_FF["<b><a href='#/Jesse_Brown_1825.md'>Jesse Brown</a></b>"]
+    MMFF_F --> MMFF_FM["<b><a href='#/Mary_Brown_1830.md'>Mary Brown</a></b>"]
+    MMFF_M --> MMFF_MF["<b><a href='#/Jesse_John_Holland_Briley.md'>Jesse John Holland Briley</a></b>"]
+    MMFF_M --> MMFF_MM["<b><a href='#/Mississippi_Carson.md'>Mississippi Carson</a></b>"]
     
-    MMM --> MMMF["<b><a href='#/James_Floyd_Wilson.md'>James Floyd Wilson</a></b><br/>B: 1894<br/>D: 1964"]
-    MMM --> MMMM["<b><a href='#/Cleo_Marinda_Goodrich.md'>Cleo Marinda Goodrich</a></b><br/>B: 1904 NC<br/>D: 1974 NC"]
+    MMM --> MMMF_F["<b><a href='#/James_Floyd_Wilson.md'>James Floyd Wilson</a></b><br/>B: 1894<br/>D: 1964"]
+    MMM --> MMMF_M["<b><a href='#/Cleo_Marinda_Goodrich.md'>Cleo Marinda Goodrich</a></b><br/>B: 1904 NC<br/>D: 1974 NC"]
+    MMMF_F --> MMMF_FF["<b><a href='#/James_Guilford_Wilson.md'>James Guilford Wilson</a></b>"]
+    MMMF_F --> MMMF_FM["<b><a href='#/Rachel_Arjean_Stokes.md'>Rachel Arjean Stokes</a></b>"]
+    MMMF_M --> MMMF_MF["<b><a href='#/Thomas_Edwin_Goodrich.md'>Thomas Edwin Goodrich</a></b>"]
+    MMMF_M --> MMMF_MM["<b>Mary Elvira Moye</b>"]
 ```
 
 ---

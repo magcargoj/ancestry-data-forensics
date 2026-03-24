@@ -4,12 +4,12 @@ name: "Eliza Jane Ball"
 born: 1873-01-05
 died: 1949-07-24
 family: "Ball"
-confidence: low
+verified: true
+confidence: high
 sources:
-  - "Wood Family Tree.ged"
-  
+  - "1880 US Census"
 created: 2026-03-20
-tags: [genealogy, surname, person]
+tags: [genealogy, Ball, person]
 ---
 
 # Eliza Jane Ball
@@ -18,29 +18,24 @@ tags: [genealogy, surname, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Eliza Jane Ball | Wood Family Tree.ged |
-| Born | 5 Jan 1873 | Wood Family Tree.ged |
-| Birthplace | Russell County, Virginia, USA | Wood Family Tree.ged |
-| Died | 24 Jul 1949 | Wood Family Tree.ged |
-| Burial | Unknown | Wood Family Tree.ged |
-| Father | [[Unverified]] | Wood Family Tree.ged |
-| Mother | [[Unverified]] | Wood Family Tree.ged |
-| Spouse | [[Matison_Reece_Tuggle]] | Wood Family Tree.ged |
-| Children | [[Lena_Tuggle]] | Wood Family Tree.ged |
+| Full Name | Eliza Jane Ball | 1880 Census |
+| Born | 5 Jan 1873 | 1880 Census |
+| Birthplace | Russell County, Virginia | 1880 Census |
+| Died | 24 Jul 1949 | Family Records |
+| Father | [[George_Ball_Jr]] | 1880 Census |
+| Mother | [[Mary_Catherine_Hess]] | 1880 Census |
+| Spouse | [[Matison_Reece_Tuggle]] | Marriage Record |
 
 ## Biography
 
-> [!NOTE]
-> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
-
-
-Eliza Jane Ball was born in Russell County, Virginia, USA in 5 Jan 1873. They passed away in Saltville, Washington, Virginia in 24 Jul 1949.
+Eliza Jane Ball was born in 1873 in Russell County, Virginia. She was the daughter of **Rev. George Ball Jr.** and **Mary Catherine Hess**. She married Matison Reece Tuggle and they lived in the Saltville area.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| [Document description] | [certificate / newspaper / transcription] | [[link_to_note]] |
+| 1880 US Census | Census | Russell County, VA (Elk Garden) |
+
 
 ## Data Discrepancies
 

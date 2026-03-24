@@ -4,12 +4,12 @@ name: "Matison Reece Tuggle"
 born: 1874-01-01
 died: 1942-06-30
 family: "Tuggle"
-confidence: low
+verified: true
+confidence: high
 sources:
-  - "Wood Family Tree.ged"
-  
+  - "1880 US Census"
 created: 2026-03-20
-tags: [genealogy, surname, person]
+tags: [genealogy, Tuggle, person]
 ---
 
 # Matison Reece Tuggle
@@ -18,29 +18,23 @@ tags: [genealogy, surname, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Matison Reece Tuggle | Wood Family Tree.ged |
-| Born | June 1874 | Wood Family Tree.ged |
-| Birthplace | Russell County, Virginia, USA | Wood Family Tree.ged |
-| Died | 30 Jun 1942 | Wood Family Tree.ged |
-| Burial | Unknown | Wood Family Tree.ged |
-| Father | [[Unverified]] | Wood Family Tree.ged |
-| Mother | [[Unverified]] | Wood Family Tree.ged |
-| Spouse | [[Eliza_Jane_Ball]] | Wood Family Tree.ged |
-| Children | [[Lena_Tuggle]] | Wood Family Tree.ged |
+| Full Name | Matthew M. Reece Tuggle | 1880 Census |
+| Born | Jun 1874 | 1880 Census |
+| Birthplace | Russell County, Virginia | 1880 Census |
+| Died | 30 Jun 1942 | Family Records |
+| Father | [[John_Morris_Tuggle]] | 1880 Census |
+| Mother | [[Martha_Annabelle_McGahee]] | 1880 Census |
+| Spouse | [[Eliza_Jane_Ball]] | Marriage Record |
 
 ## Biography
 
-> [!NOTE]
-> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
-
-
-Matison Reece Tuggle was born in Russell County, Virginia, USA in June 1874. They passed away in Saltville, Washington, Virginia, in 30 Jun 1942.
+Matison Reece Tuggle (recorded as Matthew M. R. in the 1880 census) was born in 1874 in Russell County, Virginia. He was the son of **John Morris Tuggle** and **Martha Annabelle McGahee**. He married Eliza Jane Ball and they lived in the Saltville area.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| [Document description] | [certificate / newspaper / transcription] | [[link_to_note]] |
+| 1880 US Census | Census | Russell County, VA (Lebanon) |
 
 ## Data Discrepancies
 

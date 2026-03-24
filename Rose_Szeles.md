@@ -4,11 +4,13 @@ name: "Rozalia Szelesova"
 born: 1895-03-04
 died: 1988-09-21
 family: "Szelesova"
+verified: true
 confidence: high
 sources:
-  - "Wood Family Tree.ged"
+  - "Ship Manifest (1913)"
+  - "1920 US Census"
 created: 2026-03-20
-tags: [genealogy, Szelesova, Kruppa, person]
+tags: [genealogy, Szelesova, person]
 ---
 
 # Rozalia Szelesova
@@ -17,26 +19,24 @@ tags: [genealogy, Szelesova, Kruppa, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Rozalia Szelesova | Wood Family Tree.ged |
-| Born | 4 Mar 1895 | Wood Family Tree.ged |
-| Birthplace | Debraď, Moldava nad Bodvou, Slovakia | Wood Family Tree.ged |
-| Died | 21 Sep 1988 | Wood Family Tree.ged |
-| Burial | UNKNOWN | Wood Family Tree.ged |
-| Father | [[Emericus_James_Szeles]] | Wood Family Tree.ged |
-| Mother | [[Anna_Molnar]] | Wood Family Tree.ged |
-| Spouse | [[Anthony_Emil_Kruppa]] | Wood Family Tree.ged |
-| Children | [[Rose_Mary_Jones]] | Wood Family Tree.ged |
+| Full Name | Rozalia Szelesova | Ship Manifest |
+| Born | 4 Mar 1895 | Family Record |
+| Birthplace | Debraď, Slovakia | Ship Manifest |
+| Died | 21 Sep 1988 | Death Record |
+| Arrival | 28 Oct 1913 | SS Kaiser Wilhelm II |
+| Father | [[Janos_Szeles]] | Ship Manifest |
+| Spouse | [[Anthony_Emil_Kruppa]] | Marriage Record |
 
 ## Biography
 
-
-Rozalia (Rose) Szelesova was born on March 4, 1895, in Debraď, Slovakia. She married Anthony Emil Kruppa. She lived in Beaver Falls, Pennsylvania, and passed away on September 21, 1988.
+Rozalia (Rose) Szelesova was born on March 4, 1895, in Debraď, Slovakia (then Hungary). She emigrated to the United States in October 1913 aboard the *SS Kaiser Wilhelm II*, listing her father **Janos Szeles** as her nearest relative in Slovakia. She joined relatives in Cleveland, Ohio, before marrying Anthony Emil Kruppa around 1920.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| Ship Manifest | Arrival | SS Kaiser Wilhelm II (1913) |
+| 1920 US Census | Census | Lycoming County, PA |
 
 ## Data Discrepancies
 

@@ -4,11 +4,13 @@ name: "Minnie L Cooper"
 born: 1889-06-02
 died: 1971-11-18
 family: "Cooper"
-confidence: low
+verified: true
+confidence: high
 sources:
-  - "Wood Family Tree.ged"
+  - "NC Death Certificate"
+  - "1900 US Census"
 created: 2026-03-24
-tags: [genealogy, Cooper, Almond, person]
+tags: [genealogy, Cooper, person]
 ---
 
 # Minnie L. Cooper
@@ -17,22 +19,21 @@ tags: [genealogy, Cooper, Almond, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Minnie L. Cooper | Wood Family Tree.ged |
-| Born | 2 Jun 1889 | Stanly County, North Carolina, USA |
-| Died | 18 Nov 1971 | Albemarle, Stanly, North Carolina, USA |
-| Spouse | [[Matthew_Monroe_Almond]] | Wood Family Tree.ged |
-| Children | [[Mack_Almond]] | Wood Family Tree.ged |
+| Full Name | Minnie L. Cooper | Death Certificate |
+| Born | 2 Jun 1889 | Death Certificate |
+| Birthplace | North Carolina | Death Certificate |
+| Died | 18 Nov 1971 | Death Certificate |
+| Father | [[John_Boston_Cooper]] | Death Certificate |
+| Mother | [[Martha_Ann_Lisk]] | Death Certificate |
+| Spouse | [[Matthew_Monroe_Almond]] | Family Records |
 
 ## Biography
 
-> [!NOTE]
-> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
-
-
-Minnie L. Cooper was born in Stanly County, NC, in 1889. She married Matthew Monroe Almond. She passed away in Albemarle, NC, in 1971.
+Minnie L. Cooper was born on June 2, 1889, in Stanly County, North Carolina. She was the daughter of **John Boston Cooper** and **Martha Ann Lisk**. She married Matthew Monroe Almond. She passed away in Albemarle, NC, in 1971.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| NC Death Certificate | Death | Stanly County (1971) |
+| 1900 US Census | Census | Rowan County, NC (Morgan) |

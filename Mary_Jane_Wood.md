@@ -4,6 +4,7 @@ name: "Mary Jane Wood"
 born: 1865-01-01
 died: 1951-01-01
 family: "Wood"
+verified: true
 confidence: high
 sources:
   - "NC Death Certificate"
@@ -17,24 +18,23 @@ tags: [genealogy, Wood, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Mary Jane Wood | Research |
-| Born | 1865 | Research |
-| Died | 1951 | Research |
-| Father | [[Mark_John_Wood]] | Research |
-| Mother | [[Rebecca_Smith_Wood]] | Research |
-| Spouse | [[James_Hinton_Champion]] | Research |
-| Children | [[Margaret_Delaney_Champion]] | Research |
+| Full Name | Mary Jane Wood | Death Certificate |
+| Born | c. 1865 | Death Certificate |
+| Birthplace | Harnett County, North Carolina | Death Certificate |
+| Died | 1951 | Death Certificate |
+| Father | [[Mark_John_Wood]] | Death Certificate |
+| Mother | [[Rebecca_Smith_Wood]] | Death Certificate |
+| Spouse | [[James_Hinton_Champion]] | Death Certificate |
 
 ## Biography
 
-
-Mary Jane Wood was the daughter of Mark John Wood and Rebecca Smith Wood. She married James Hinton Champion.
+Mary Jane Wood was born around 1865 in Harnett County, NC. She was the daughter of **Mark John Wood** and **Rebecca Smith Wood**. She married James Hinton Champion. She passed away in 1951.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Death Certificate | Certificate | Research |
+| NC Death Certificate | Death | Harnett County (1951) |
 
 ## Data Discrepancies
 

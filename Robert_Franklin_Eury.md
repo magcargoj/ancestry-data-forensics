@@ -4,9 +4,10 @@ name: "Robert Franklin Eury"
 born: 1883-02-27
 died: 1955-11-09
 family: "Eury"
-confidence: low
+verified: true
+confidence: high
 sources:
-  - "Wood Family Tree.ged"
+  - "1900 US Census"
 created: 2026-03-24
 tags: [genealogy, Eury, person]
 ---
@@ -17,24 +18,20 @@ tags: [genealogy, Eury, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Robert Franklin Eury | Wood Family Tree.ged |
-| Born | 27 Feb 1883 | Stanley, North Carolina, United States |
-| Died | 9 Nov 1955 | North Carolina, USA |
-| Father | [[Unverified]] | Research |
-| Mother | [[Unverified]] | Research |
-| Spouse | [[Minnie_Lou_Dennis_Eury]] | Wood Family Tree.ged |
-| Children | [[Blanche_Elaine_Eury]] | Wood Family Tree.ged |
+| Full Name | Robert Franklin Eury | 1900 Census |
+| Born | 27 Feb 1883 | 1900 Census |
+| Birthplace | North Carolina | 1900 Census |
+| Died | 9 Nov 1955 | Family Records |
+| Father | [[Daniel_Jefferson_Eury]] | 1900 Census |
+| Mother | [[Mary_Lavina_Cameline_Rummage]] | 1900 Census |
+| Spouse | [[Minnie_Lou_Dennis]] | Marriage Record |
 
 ## Biography
 
-> [!NOTE]
-> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
-
-
-Robert Franklin Eury was born in Stanley County, NC, in 1883. He was the son of Daniel Jefferson Eury and Mary Lavina Rummage. He lived his life in the North Carolina Piedmont area.
+Robert Franklin Eury was born on February 27, 1883, in North Carolina. He was the son of **Daniel Jefferson Eury** and **Mary Lavina Cameline Rummage**. He lived in the Cabarrus/Stanly county area. He married Minnie Lou Dennis.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| 1900 US Census | Census | Cabarrus County, NC (Militia Dist 317) |

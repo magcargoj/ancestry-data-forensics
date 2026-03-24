@@ -3,13 +3,13 @@ type: person
 name: "Carl Martin Danner"
 born: 1878-12-31
 died: 1960-05-10
-family: "Danner"
+verified: true
 confidence: high
 sources:
-  - "Wood Family Tree.ged"
-  
+  - "1900 US Census"
+  - "NC Death Certificate"
 created: 2026-03-20
-tags: [genealogy, surname, person]
+tags: [genealogy, Danner, person]
 ---
 
 # Carl Martin Danner
@@ -18,29 +18,22 @@ tags: [genealogy, surname, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Carl Martin Danner | Wood Family Tree.ged |
-| Born | 31 Dec 1878 | Wood Family Tree.ged |
-| Birthplace | Watauga, North Carolina, USA | Wood Family Tree.ged |
-| Died | 10 May 1960 | Wood Family Tree.ged |
-| Burial | Unknown | Wood Family Tree.ged |
-| Father | [[Frederick_Danner]] | Wood Family Tree.ged |
-| Mother | [[Frederick_Danner]] | Wood Family Tree.ged |
-| Spouse | [[Jalie_Frances_Danner]] | Wood Family Tree.ged |
-| Children | [[Alice_D_Danner]] | Wood Family Tree.ged |
+| Full Name | Carl Martin Danner | 1900 Census |
+| Born | 31 Dec 1879 | 1900 Census |
+| Birthplace | Watauga County, North Carolina | 1900 Census |
+| Died | 10 May 1960 | Death Certificate |
+| Father | [[William_Wesley_Danner]] | 1900 Census |
+| Mother | [[Rebecca_Shull]] | 1900 Census |
+| Spouse | [[Jalie_Frances_Jarrett]] | Marriage Record (1904) |
 
 ## Biography
 
-
-Carl Martin Danner was born in Watauga, North Carolina, USA in 31 Dec 1878. They passed away in Morganton, Burke, North Carolina, USA in 10 May 1960.
+Carl Martin Danner was born on December 31, 1879, in Watauga County, North Carolina. He was the son of **William Wesley Danner** and **Rebecca Shull**. He married Jalie Frances Jarrett in 1904. He passed away in Morganton, NC, in 1960.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| [Document description] | [certificate / newspaper / transcription] | [[link_to_note]] |
+| 1900 US Census | Census | Watauga County, NC (Watauga) |
+| NC Death Certificate | Death | Burke County (1960) |
 
-## Data Discrepancies
-
-| Field | Source A | Source B | Resolution |
-|---|---|---|---|
-| [field] | [value] (Wood Family Tree.ged) | [value] (Wood Family Tree.ged) | [which is correct and why] |

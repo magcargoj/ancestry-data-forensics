@@ -4,11 +4,13 @@ name: "Maude Elma Matney"
 born: 1893-03-25
 died: 1984-10-26
 family: "Matney"
+verified: true
 confidence: high
 sources:
-  - "Wood Family Tree.ged"
+  - "1900 US Census"
+  - "NC Marriage Index"
 created: 2026-03-20
-tags: [genealogy, Matney, Jones, person]
+tags: [genealogy, Matney, person]
 ---
 
 # Maude Elma Matney
@@ -17,26 +19,24 @@ tags: [genealogy, Matney, Jones, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Maude Elma Matney | Wood Family Tree.ged |
-| Born | 25 Mar 1893 | Wood Family Tree.ged |
-| Birthplace | Montezuma, Avery, North Carolina | Wood Family Tree.ged |
-| Died | 26 Oct 1984 | Wood Family Tree.ged |
-| Burial | UNKNOWN | Wood Family Tree.ged |
-| Father | [[Martin_Luther_Matney]] | Wood Family Tree.ged |
-| Mother | [[Susan_Margaret_Loudermilk]] | Wood Family Tree.ged |
-| Spouse | [[Clyde_Jones_Sr]] | Wood Family Tree.ged |
-| Children | [[Clyde_Jones_Jr]] | Wood Family Tree.ged |
+| Full Name | Maude Elma Matney | 1900 Census |
+| Born | Mar 1893 | 1900 Census |
+| Birthplace | North Carolina | 1900 Census |
+| Died | 26 Oct 1984 | Family Records |
+| Father | [[Martin_Luther_Matney]] | 1900 Census |
+| Mother | [[Susan_Margaret_Loudermilk]] | 1900 Census |
+| Spouse | [[Clyde_Jones_Sr]] | Marriage Record (1911) |
 
 ## Biography
 
-
-Maude Elma "Mama Jones" Matney was born on March 25, 1893, in Montezuma, Avery County, North Carolina. She was the daughter of Martin Luther Matney and Susan Margaret Loudermilk. She married Clyde Jones Sr. She passed away on October 26, 1984, in Johnson City, Tennessee.
+Maude Elma "Mama Jones" Matney was born in March 1893 in Watauga County, North Carolina. She was the daughter of **Martin Luther Matney** and **Susan Margaret Loudermilk**. She married Clyde Jones Sr. on August 19, 1911, in Avery County, NC. She passed away on October 26, 1984, in Tennessee.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| 1900 US Census | Census | Watauga County, NC (Shawneehaw) |
+| NC Marriage Index | Marriage | Avery County (1911) |
 
 ## Data Discrepancies
 

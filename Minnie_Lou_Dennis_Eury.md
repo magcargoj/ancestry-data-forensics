@@ -4,11 +4,13 @@ name: "Minnie Lou Dennis Eury"
 born: 1886-04-01
 died: 1965-11-28
 family: "Dennis"
-confidence: low
+verified: true
+confidence: high
 sources:
-  - "Wood Family Tree.ged"
+  - "NC Death Certificate"
+  - "1900 US Census"
 created: 2026-03-24
-tags: [genealogy, Dennis, Eury, person]
+tags: [genealogy, Dennis, person]
 ---
 
 # Minnie Lou Dennis Eury
@@ -17,24 +19,22 @@ tags: [genealogy, Dennis, Eury, person]
 
 | Field | Value | Source |
 |---|---|---|
-| Full Name | Minnie Lou Dennis | Wood Family Tree.ged |
-| Born | 1 Apr 1886 | North Carolina, United States |
-| Died | 28 Nov 1965 | High Point, Guilford, North Carolina |
-| Father | [[Unverified]] | Research |
-| Mother | [[Unverified]] | Research |
-| Spouse | [[Robert_Franklin_Eury]] | Wood Family Tree.ged |
-| Children | [[Blanche_Elaine_Eury]] | Wood Family Tree.ged |
+| Full Name | Minnie Lou Dennis | Death Certificate |
+| Born | 1 Apr 1886 | Death Certificate |
+| Birthplace | North Carolina | Death Certificate |
+| Died | 28 Nov 1965 | Death Certificate |
+| Father | [[Dumas_Franklin_Dennis]] | Death Certificate |
+| Mother | [[Mary_Ann_Dennis]] | Death Certificate |
+| Spouse | [[Robert_Franklin_Eury]] | Marriage Record |
 
 ## Biography
 
-> [!NOTE]
-> Parentage for this individual is currently under re-verification following the removal of unverified GEDCOM data.
-
-
-Minnie Lou Dennis was born in 1886. She was the daughter of Dumas Franklin Dennis and Elenor Temperance Morris. She married Robert Franklin Eury. She passed away in High Point, NC, in 1965.
+Minnie Lou Dennis was born on April 1, 1886, in North Carolina. She was the daughter of **Dumas Franklin Dennis** and **Mary Ann Dennis**. She married Robert Franklin Eury. She passed away in High Point, NC, in 1965.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| NC Death Certificate | Death | Guilford County (1965) |
+| 1900 US Census | Census | Montgomery County, NC (Troy) |
+

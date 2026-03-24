@@ -24,18 +24,20 @@ tags: [genealogy, Honeycutt, person]
 | Birthplace | North Carolina, USA | Wood Family Tree.ged |
 | Died | 1941-09-03 | Research |
 | Burial | Tutor Family Cemetery, Angier, NC | Research |
-| Father | [[Unverified]] | |
-| Mother | [[Unverified]] | |
-| Spouse | [[Alfred_Young_Tutor]] | Wood Family Tree.ged |
-| Children | [[Magnolia_Catherine_Tutor]], and many others | 1920 Census |
+| Father | [[William_Honeycutt]] | 1860 US Census |
+| Mother | [[Martha]] | 1860 US Census |
+
+| Spouse | [[Alfred_Young_Tutor]] | Marriage Record (1879-12-23) |
+| Children | [[Magnolia_Catherine_Tutor]] | 1920 Census |
 
 ## Biography
 
-Charlotte "Lottie" Honeycutt was born on May 18, 1858, in North Carolina. She married Alfred Young Tutor and they raised a large family in Harnett County. She appears in the 1910 and 1920 censuses. She passed away on September 3, 1941, and is buried in the Tutor Family Cemetery.
-
+Charlotte "Lottie" Honeycutt was born around 1857-1858 in North Carolina. She was the daughter of **William Honeycutt** and **Martha**, as recorded in the 1860 Wake County Census. She married Alfred Young Tutor on December 23, 1879, in Harnett County.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| 1860 US Census | Census | Wake County (Western Division) |
+| NC Marriage Index | Marriage | Harnett County (1879) |
+| 1910 US Census | Census | Harnett County (Buckhorn) |

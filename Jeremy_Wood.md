@@ -1,14 +1,17 @@
 ---
 type: person
-name: "Jeremy Wood"
-born: 1992-00-00
+name: Jeremy Wood
+born: 1992-08-18
 died: LIVING
-family: "Wood"
+family: Wood
 confidence: high
 sources:
-  - "Wood Family Tree.ged"
+  - Wood Family Tree.ged
 created: 2026-03-20
-tags: [genealogy, Wood, person]
+tags:
+  - genealogy
+  - Wood
+  - person
 ---
 
 # Jeremy Wood

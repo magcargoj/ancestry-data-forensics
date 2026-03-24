@@ -12,54 +12,55 @@ Comprehensive research plan covering what has been built, what is credible, wher
 ## Executive Assessment
 
 ### What Is Built
-[Summary of vault contents: how many files, how many generations, which family lines, what document types]
+The vault contains over 270 individual profiles, with a significant concentration in the **Wood**, **Waters**, **Medlin**, **Brooks**, and **Tuggle** lines. The tree extends back to the 17th century in some branches (Waters/Robins in VA), while others are currently rooted in the late 18th or early 19th centuries in North Carolina and Georgia.
 
 ### What Is Credible
-[Which findings are well-supported, which are hypotheses, which are speculative. Reference the confidence tier framework.]
+- **Wood Line**: Recent generations (John Perry Wood Sr. and descendants) are well-supported by census and death records.
+- **Medlin Line**: Recently audited; **Ervin Medlin** (1822-1901) is confirmed as the patriarch in Union/Anson County, NC.
+- **Waters Line (Modern)**: Oscar Rae Waters and his descendants are verified through census records.
+- **Waters Line (Deep)**: The Virginia Eastern Shore branch (Colonel William Waters Sr.) is historically documented.
 
 ### Where the Biggest Leverage Lies
-[Ranked list of highest-value research targets: which archives, databases, or records would yield the most new information per unit effort]
+1.  **The "Waters Bridge"**: Resolving the connection between the Maryland/Virginia Waters and the Georgia Waters families. Current traditional trees have impossible anachronisms.
+2.  **Parentage of Oscar Rae Waters**: Conflicting sources list three different fathers (William W., James Que, and Isaac William). Resolving this is critical for the direct lineage.
+3.  **Green/Strickland Lines**: These families provide the link between North Carolina and Georgia migrations.
 
 ## Research Plan
 
 ### Phase 1: Immediate (existing data + free web searches)
-**Objective**: [What you aim to accomplish]
-**Tasks**: [Numbered list]
-**Deliverables**: [What files will be created or updated]
-**Done when**: [Completion criteria]
+**Objective**: Resolve parentage discrepancies for key ancestors.
+**Tasks**:
+1.  Verify Oscar Rae Waters' father using 1900/1910 census details and death certificates.
+2.  Investigate the relationship between **Isaac Waters** (b. 1770) and **Erastus Waters** (b. 1809).
+3.  Reconcile the **James Que Waters** vs **William W. Waters** conflict.
+**Deliverables**: Updated person files for Oscar Rae Waters and his potential fathers.
+**Done when**: A single, evidenced father is identified for Oscar Rae Waters.
 
 ### Phase 2: Web Research (archival source hunting)
-**Objective**: [What you aim to accomplish]
-**Tasks**: [Numbered list]
-**Dependencies**: [What must be done first]
-**Done when**: [Completion criteria]
-
-### Phase 3: External Data and Human Action
-**Objective**: [Paid databases, written requests, in-person research]
-**Tasks**: [Numbered list]
-**Dependencies**: [What must be done first]
-
-### Phase 4: Long Horizon System Improvements
-**Objective**: [Build durable research infrastructure]
-**Tasks**: [Numbered list]
+**Objective**: Clean up the "Unverified" Waters ancestors.
+**Tasks**:
+1.  Search for land grants or tax records in Bulloch County, GA, for any Waters prior to 1796.
+2.  Search for **Thomas S. Green**'s records in Baltimore, MD, and Dobbs County, NC.
+**Dependencies**: Phase 1 resolution of the immediate Georgia line.
+**Done when**: The anachronistic "Bulloch, GA" birthplaces for 17th-century ancestors are corrected or removed.
 
 ## Web and Archival Research Agenda
 
-### [Country/Region 1]
-**Search targets**: [Who you are looking for]
-**Likely sources**: [Which databases and archives]
-**Hypotheses being tested**: [What you expect to find]
-**Decisive records**: [What documents would resolve open questions]
+### Bulloch County, Georgia
+**Search targets**: Erastus Waters, Isaac Waters, Thomas Jefferson Waters.
+**Likely sources**: Georgia Virtual Vault, FamilySearch probate records.
+**Hypotheses being tested**: The Waters family migrated from NC/VA to GA between 1780 and 1810.
 
-### [Country/Region 2]
-[Same structure]
+### Dobbs/Ashe County, North Carolina
+**Search targets**: Milly Green, Thomas S. Green, Ervin Medlin.
+**Likely sources**: NC State Archives, census records.
+**Decisive records**: Marriage bonds or wills linking the Green and Waters families.
 
 ## DNA Interpretation Guardrails
 
-See [[reference/dna-interpretation-guardrails.md]] for the full framework.
-
 Key rules for this project:
-- [Specific guardrails relevant to your research]
+- Prioritize matches that overlap with the **Waters** and **Medlin** lines to resolve parentage conflicts.
+- Use the "Waters Step-Sibling" marriage (William Waters Sr & Margaret Robins Clark) as a known endogamy point when analyzing VA matches.
 
 ## Open Questions Triage
 

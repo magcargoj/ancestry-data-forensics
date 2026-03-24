@@ -22,18 +22,20 @@ tags: [genealogy, Newell, person]
 | Birthplace | Edgecombe, North Carolina, USA | Wood Family Tree.ged |
 | Died | 1908 | Wood Family Tree.ged |
 | Burial | [Unknown] | |
-| Father | [[Unverified]] | |
-| Mother | [[Unverified]] | |
-| Spouse | [[Thomas_Harvill_Arnold]] | Wood Family Tree.ged |
-| Children | [[Lonnie_Frank_Arnold_Sr]], and others | Wood Family Tree.ged |
+| Father | [[Herrin_Newell]] | 1850 US Census |
+| Mother | [[Rachael]] | 1850 US Census |
+
+| Spouse | [[Thomas_Harvill_Arnold]] | Marriage Record (1864-12-22) |
+| Children | [[Lonnie_Frank_Arnold_Sr]] | 1870 Census |
 
 ## Biography
 
-
-Elizabeth "Betsy" Rebecca Newell was born in Edgecombe County, NC. She married Thomas Harvill Arnold.
+Elizabeth "Betsy" Rebecca Newell was born around 1835-1841 in North Carolina. She was the daughter of **Herrin (Herring) Newell**, a merchant, and **Rachael**. She grew up in the Fayetteville area of Cumberland County. She married Thomas Harvill Arnold on December 22, 1864, in Cumberland County.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| 1850 US Census | Census | Cumberland County (Fayetteville) |
+| NC Marriage Index | Marriage | Cumberland County (1864) |
+| 1870 US Census | Census | Harnett County (Johnsonville) |

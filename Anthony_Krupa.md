@@ -4,9 +4,11 @@ name: "Anthony Emil Kruppa"
 born: 1896-05-01
 died: 1970-04-02
 family: "Kruppa"
+verified: true
 confidence: high
 sources:
-  - "Wood Family Tree.ged"
+  - "1920 US Census"
+  - "Ship Manifest (1912)"
 created: 2026-03-20
 tags: [genealogy, Kruppa, person]
 ---
@@ -18,22 +20,23 @@ tags: [genealogy, Kruppa, person]
 | Field | Value | Source |
 |---|---|---|
 | Full Name | Anthony Emil Kruppa | 1920 US Census |
-| Born | 1 May 1896 | Stankovany, Hungary (Slovakia) |
-| Died | 2 Apr 1970 | New Brighton, Beaver County, PA |
-| Arrival | c. 1912-1913 | New York (Ellis Island) |
-| Occupation | Railroader / Coal Industry | Census |
+| Born | 1 May 1890 | Ship Manifest |
+| Birthplace | Stankovany, Hungary (Slovakia) | Ship Manifest |
+| Died | 2 Apr 1970 | Death Record |
+| Arrival | May 1912 | SS George Washington |
+| Father | [[Janos_Kruppa]] | Ship Manifest |
+| Spouse | [[Rozalia_Szelesova]] | Marriage Record |
 
 ## Biography
 
-
-Anthony Emil Kruppa (Tony) emigrated from Stankovany, Slovakia (then Hungary) to the United States around 1912. He initially settled in Jersey Shore, Lycoming County, Pennsylvania, where he worked in the railroad or coal industry. By 1920, he and his wife Rose were living in Jersey Shore before later moving to Beaver County. He passed away in New Brighton in 1970.
+Anthony Emil Kruppa (Tony) emigrated from Stankovany, Slovakia (then Hungary) to the United States in May 1912 aboard the *SS George Washington*. He listed his father, **Janos Kruppa**, as his nearest relative in Slovakia. He initially settled in Jersey Shore, PA, and worked in the coal/railroad industry. He married Rozalia Szelesova around 1920.
 
 ## Document Sources
 
 | Document | Type | Vault Note |
 |---|---|---|
 | 1920 US Census | Census | Lycoming County, PA |
-| Wood Family Tree.ged | GEDCOM | [[sources/Wood Family Tree.ged]] |
+| Ship Manifest | Arrival | SS George Washington (1912) |
 
 ## Data Discrepancies
 

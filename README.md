@@ -1,28 +1,19 @@
-# Welcome to the Family Archive
+# Wood & Brooks Family Archive
 
-This project documents the merged histories of the **Wood** and **Brooks** family lines. Our research spans continents—from the coal mines of **Slovakia** to the early settlements of **Colonial Virginia** and **Connecticut**.
+This archive documents the verified history of the **Wood** and **Brooks** family lines through **Generation 6 (3x Great-Grandparents)**. 
+
+### ✅ Verified for Family Review
+We have recently overhauled the archive to prioritize **official primary sources** (Census, Death, and Marriage records). This version of the site is intended for family review to confirm core lineages before we expand further into deep ancestry.
+
+*   **Scope**: Generations 1 through 6.
+*   **Verification**: Look for the `verified: true` status on individual profiles.
+*   **Goal**: Ensure every link in our 6-generation foundation is anchored by primary evidence.
 
 ### 🌳 Explore the Tree
-The heart of our research is the **[Complete Family Tree](Family_Tree.md)**. 
-
-*   **Jeremy's Line:** Tracing the Wood and Arnold families through North Carolina.
-*   **Ashley's Line:** Exploring the Brooks, Almond, and Warner lineages.
-*   **Our Roots:** Connecting back to the 1500s in Wales and the 1600s in Germany.
-
-### 📜 Key Storylines
-Discover the major chapters of our family history:
-
-*   **[The Slovakian Migration](Slovakia.md):** The journey of the Kruppa and Szeles families from Debraď and Stankovany.
-*   **[Colonial Virginia](Virginia.md):** Early pioneers in the Virginia House of Burgess and the struggle of the early 1600s.
-*   **[North Carolina Pioneers](North_Carolina.md):** Generations of farmers, soldiers, and families building NC.
-*   **[Service & Sacrifice](Military_History.md):** From the Revolutionary War to the Civil War and beyond.
+*   **[Complete Family Tree (Gen 1–6)](Family_Tree.md)**: A consolidated view of all verified branches.
 
 ### 🕒 The Timeline
-View every major birth, marriage, and death in chronological order:
-*   **[Historical Timeline (1500–Present)](Timeline.md)**
+*   **[Historical Timeline](Timeline.md)**: Chronological record of births, marriages, and deaths for the first six generations.
 
-### 🤝 Contribute
-This is a living archive. If you have corrections or new information, please visit our **[Contact & Contributions](Contact.md)** page.
-
----
-*Last updated: 2026-03-21*
+### 🤝 How to Help
+If you spot an error or have an official document (photo, certificate, or family Bible record) that we are missing, please contact us. We are currently only accepting confirmed information for the first six generations.

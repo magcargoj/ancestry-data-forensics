@@ -1,19 +1,20 @@
-# Wood & Brooks Family Archive
+# 🕵️ Ancestry Data Forensics (Genealogy Project)
 
-This archive documents the verified history of the **Wood** and **Brooks** family lines through **Generation 6 (3x Great-Grandparents)**. 
+**An investigative project leveraging high-fidelity data aggregation and relational modeling to reconstruct complex family histories.**
 
-### ✅ Verified for Family Review
-We have recently overhauled the archive to prioritize **official primary sources** (Census, Death, and Marriage records). This version of the site is intended for family review to confirm core lineages before we expand further into deep ancestry.
+## 🎯 Project Overview
+This repository serves as a centralized hub for forensic-level genealogical research. Unlike traditional tree-building tools, this project focuses on **data integrity, source verification, and structured markdown-based documentation** to maintain a "Single Source of Truth" for multi-generational datasets.
 
-*   **Scope**: Generations 1 through 6.
-*   **Verification**: Look for the `verified: true` status on individual profiles.
-*   **Goal**: Ensure every link in our 6-generation foundation is anchored by primary evidence.
+## 🏗️ Technical Approach
+- **Data Modeling:** Using relational linking within Markdown files to create a searchable, lightweight database of ancestral records.
+- **Forensic Verification:** Each record is backed by cross-referenced primary sources (census records, vital statistics, archival documents).
+- **Relational Mapping:** Tracking migration patterns and DNA signal density across geographic regions.
 
-### 🌳 Explore the Tree
-*   **[Complete Family Tree (Gen 1–6)](Family_Tree.md)**: A consolidated view of all verified branches.
+## 📁 Repository Structure
+- `archives/`: Scanned and digitized primary sources.
+- `records/`: Individual-specific markdown files with structured metadata.
+- `forensics/`: Analytical reports and migration mapping.
 
-### 🕒 The Timeline
-*   **[Historical Timeline](Timeline.md)**: Chronological record of births, marriages, and deaths for the first six generations.
-
-### 🤝 How to Help
-If you spot an error or have an official document (photo, certificate, or family Bible record) that we are missing, please contact us. We are currently only accepting confirmed information for the first six generations.
+---
+**Maintained by [Jeremy Wood](https://jeremywood.digital)**  
+*Technical Sentinel | Data Forensics Enthusiast*
